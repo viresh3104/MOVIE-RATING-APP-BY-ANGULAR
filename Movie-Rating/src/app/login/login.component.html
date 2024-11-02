@@ -1,0 +1,39 @@
+<div class="login-container">
+  <img src="assets/char.png" class="char" alt="" />
+  <div class="logo">Real Ranks</div>
+  <div class="desc">Rank and review films with ease </div>
+
+  <div class="login_form">
+    <div class="form-group">
+      <label for="uname">Username</label>
+      <input
+        type="text"
+        name="uname"
+        class="form-control"
+        placeholder="enter your username"
+        [(ngModel)]="username"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="pword">Password</label>
+      <input
+        type="password"
+        name="pword"
+        class="form-control"
+        placeholder="enter your password"
+        [(ngModel)]="password"
+      />
+    </div>
+
+    <div class="btn-container">
+        <div class="error">{{ errormsg }}</div>
+      <button class="btn btn-dark" (click)="login()">Login</button>
+    </div>
+  </div>
+
+  <div class="about-text">
+    <button class="btn" (click)="about()">About Us</button>
+</div>
+</div>
+

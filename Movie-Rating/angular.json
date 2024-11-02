@@ -34,12 +34,17 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              },
+               "src/assets",
+               "src/favicon.ico"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+            ],
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
@@ -107,5 +112,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "c0eb5ec4-0e2c-47d9-971f-ea586fc4590d"
   }
 }

@@ -1,0 +1,42 @@
+
+.about-us{
+    background-color: rgb(27, 25, 31);
+    height: 50vw;
+    color: beige;
+    h2{
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    p{
+        position: relative;
+        text-align: left;
+        width: 50vw;
+        top: 150px;
+        font-size: 1.5rem;
+        left:25% ;
+    }
+
+    span{
+        position: relative;
+        left: 100%;
+    }
+
+    .btn{
+        position: absolute;
+        top: 40px;
+        left: 40px;
+        background-color: beige;
+    }
+
+    img{
+        position: relative;
+        height: auto;
+        width: 450px;
+        bottom: 150px;
+        right: 2%;
+        margin: 0 auto; 
+    }
+}
