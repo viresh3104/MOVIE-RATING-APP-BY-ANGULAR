@@ -1,0 +1,28 @@
+.header-container{
+    width: 100%;
+    height: 80px;
+    background-color: #73605B;
+    color: beige;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    .logo{
+        font-size: 3.5rem;
+        letter-spacing: 1px;
+        margin-left: 40px;
+        cursor: pointer;
+    }
+    .navbar{
+        left: 1350px;
+        font-size: 22px;
+        cursor: pointer ;
+        transition: 0.2s ease-in-out;
+    }
+    .navbar:hover{
+        color:  #FB6542;
+    }
+
+    .logout{
+        margin-right: 45px;
+    }
+}
