@@ -1,1 +1,43 @@
-<app-header></app-header>
+<div class="home">
+  <app-header></app-header>
+
+  <div class="movie-container">
+    <div class="photoslideshow">
+      <h3>Recent Releases</h3>
+      <div class="photos">
+        <img src="assets/slideshow/1_Bhool Bhulaiyaa3.jpeg" alt="" />
+        <img src="assets/slideshow/2_Singhamagain.jpeg" alt="" />
+        <img src="assets/slideshow/3_Vettaiyan.jpeg" alt="" />
+        <img src="assets/slideshow/4_VickyVidyaKaWohWalaVideo.jpeg" alt="" />
+        <img src="assets/slideshow/5_Yudhra.jpeg" alt="" />
+      </div>
+    </div>
+  </div>
+
+  <div class="all-movies">
+    <div class="bollywood-movies">
+
+        <div class="top">
+            <h3>Hollywood Movies</h3>
+            <div class="view-all">View all</div>
+        </div>
+
+        <div class="movies-thumbnail">
+
+            <div class="movie" *ngFor="let movie of  bollywood_movies ">
+
+                <div class="cover">
+                    <img [src]="movie.cover" alt="">
+                </div>
+
+                <div class="movie-details">
+                    <div class="name">{{movie.name}}</div>
+                    <div class="rating">{{movie.rating}}</div>
+                </div>
+
+            </div> 
+        </div>
+
+    </div>
+  </div>
+</div>
