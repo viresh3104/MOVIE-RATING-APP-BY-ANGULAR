@@ -39,4 +39,7 @@ export class LoginComponent {
   about(){
     this.router.navigate(['about']);
   }
+  register(){
+    this.router.navigate(['register']);
+  }
 }

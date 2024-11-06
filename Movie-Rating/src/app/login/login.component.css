@@ -1,18 +1,19 @@
 .login-container {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(135deg, #caebd7 0%, #1c465e 100%);
+  color: beige;
+  background-color: #2A3132;
   position: relative;
   .logo {
     font-size: 70px;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 4px;
     position: absolute;
     top: 40px;
     left: 40%;
   }
   .desc {
-    font-size: 34px;
+    font-size: 32px;
     letter-spacing: 3px;
     font-weight: 500;
     position: relative;
@@ -35,7 +36,7 @@
     width: 500px;
     height: 300px;
     padding: 30px;
-    background:linear-gradient(135deg, #caebd7 0%, #1c465e 100%);
+    background:#73605B;
     border-radius: 1rem;
     top: 50%;
     left: 50%;
@@ -49,13 +50,16 @@
     .btn-container{
         position: relative;
         .btn{
-            width: 50%;
+            background-color: #2A3132;
+            width: 45%;
+            color: beige;
+            margin: 10px;
         }
         .error{
-            position: absolute;
-            right: 5px;
+            position: relative;
+            left: 10px;
             font-size: 20px;
-            color: rgb(179, 7, 7);
+            color: #FB6542;
         }
 
     }
@@ -66,7 +70,8 @@
     right: 40px;
     font-size: 10px;
     .btn{
-        background-color: beige;
+        background-color: #73605B;
+        color: beige;
     }
   }
 }
