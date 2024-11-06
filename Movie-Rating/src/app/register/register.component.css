@@ -1,0 +1,24 @@
+.register {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  h1{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .btn {
+    position: relative;
+    background-color:#73605B;
+    transition: 0.2s ease-in-out;
+    color: beige;
+    width: 20%;
+    left: 40%;
+    margin-top: 20px;
+  }
+  .btn:hover{
+    color:  #FB6542;
+}
+}
