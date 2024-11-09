@@ -2,9 +2,7 @@
   height: 100vw;
   background: #2a3132;
   position: relative;
-  /* display: flex;
-  flex-direction: column; */
-
+  
   .movie-container {
     width: 1000px;
     height: 600px;
@@ -14,105 +12,96 @@
     overflow: hidden;
     position: relative;
     left: 25%;
+    margin: 15px;
+    
     .photoslideshow {
       width: 100%;
       height: 100%;
       position: relative;
       overflow: hidden;
+      
       h3 { 
         position: relative;
         font-size: 2.5rem;
         color: beige;
       }
+      
       .photos {
         display: flex;
-        animation: slide 35s linear infinite;
-        img {
-          width: 100%;
-          height: 100%;
-          border-radius: 10px;
-          flex-shrink: 0;
-          object-fit: cover;
-        }
+        animation: slide_animation 40s infinite ease-in-out;
+        -webkit-animation: slide_animation 40s infinite ease-in-out;
+      }
+      
+      img {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        flex-shrink: 0;
+        object-fit: cover;
+        float: left;
+        position: relative;
       }
     }
   }
 
-  .all-movies{
+  .all-movies {
     position: relative;
-    top:20px;
+    top: 20px;
     left: 10%;
     color: beige;
     width: 80%;
+    display: flex;
+    flex-direction: column;
 
-    .bollywood-movies{
-        position: relative;
-        .top{
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            .view-all{
-                font-size: 1rem;
-            }
+    .bollywood-movies {
+      position: relative;
 
-            h3{
-                font-size: 2.5rem;
-                border-left:5px solid beige;
-                padding-left: 10px;
-            }
+      .top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .view-all {
+          font-size: 1rem;
         }
 
-        .movies-thumbnail{
-            padding-top: 10px;
-            display: flex;
-            justify-content: space-between; 
-            .cover{
-                img{
-                    border-radius:5px;
-                }
-            }
+        h3 {
+          font-size: 2.5rem;
+          border-left: 5px solid beige;
+          padding-left: 10px;
         }
+      }
+
+      .movies-thumbnail {
+        padding-top: 10px;
+        display: flex;
+        justify-content: space-between;
+
+        .cover img {
+          border-radius: 5px;
+          width: 150px;
+          height: 200px;
+          object-fit: cover;
+          margin-right: 15px;
+        }
+      }
     }
   }
-  
-
-
 }
 
+/* Keyframes for sliding effect with pauses */
+@keyframes slide_animation {
+  0%, 12.5% { transform: translateX(0); }           /* First image pauses for 5 seconds */
+  25%, 37.5% { transform: translateX(-1000px); }    /* Second image pauses for 5 seconds */
+  50%, 62.5% { transform: translateX(-2000px); }    /* Third image pauses for 5 seconds */
+  75%, 87.5% { transform: translateX(-3000px); }    /* Fourth image pauses for 5 seconds */
+  100% { transform: translateX(-4000px); }          /* Fifth image pauses and loop restarts */
+}
 
-
-
-
-
-
-
-/* Keyframes for sliding effect */
-@keyframes slide {
-  0% {
-    transform: translateX(0);
-  }
-  20% {
-    transform: translateX(0);
-  }
-  25% {
-    transform: translateX(-1000px);
-  }
-  45% {
-    transform: translateX(-1000px);
-  }
-  50% {
-    transform: translateX(-2000px);
-  }
-  70% {
-    transform: translateX(-2000px);
-  }
-  75% {
-    transform: translateX(-3000px);
-  }
-  95% {
-    transform: translateX(-4000px);
-  }
-  100% {
-    transform: translateX(-5000px);
-  }
+@-webkit-keyframes slide_animation {
+  0%, 12.5% { transform: translateX(0); }           
+  25%, 37.5% { transform: translateX(-1000px); }    
+  50%, 62.5% { transform: translateX(-2000px); }    
+  75%, 87.5% { transform: translateX(-3000px); }    
+  100% { transform: translateX(-4000px); }
 }
