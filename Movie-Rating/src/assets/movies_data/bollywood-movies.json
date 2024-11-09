@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "3 Idiots",
+    "cover": "https://i.etsystatic.com/40506978/r/il/a9b1b7/4660082536/il_570xN.4660082536_bwji.jpg",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author": "Rohan Mehra",
+        "published_on": "2022-05-10",
+        "review": "A masterpiece of Indian cinema!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dangal",
+    "cover": "https://linktodangalposter.com",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author": "Priya Sharma",
+        "published_on": "2022-04-15",
+        "review": "Inspirational and heartwarming.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lagaan",
+    "cover": "https://linktolagaanposter.com",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author": "Ankit Patel",
+        "published_on": "2022-06-18",
+        "review": "A perfect blend of history and entertainment.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sholay",
+    "cover": "https://linktosholayposter.com",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author": "Vikram Singh",
+        "published_on": "2022-07-20",
+        "review": "An absolute classic!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kabhi Khushi Kabhie Gham",
+    "cover": "https://linktok3gposter.com",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author": "Meera Kapoor",
+        "published_on": "2022-08-22",
+        "review": "An emotional rollercoaster.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dilwale Dulhania Le Jayenge",
+    "cover": "https://linktoddljposter.com",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author": "Ritu Sharma",
+        "published_on": "2022-09-25",
+        "review": "A timeless love story.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Zindagi Na Milegi Dobara",
+    "cover": "https://linktoznmdposter.com",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author": "Aman Verma",
+        "published_on": "2022-10-30",
+        "review": "Life-changing and inspiring.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bajrangi Bhaijaan",
+    "cover": "https://linktobajrangi.poster.com",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author": "Sana Khan",
+        "published_on": "2022-11-05",
+        "review": "Heartfelt and emotional.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Gully Boy",
+    "cover": "https://linktogullyboyposter.com",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author": "Rajesh Kumar",
+        "published_on": "2022-12-12",
+        "review": "A powerful and inspiring story.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Andhadhun",
+    "cover": "https://linktoandhadhunposter.com",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author": "Pooja Gupta",
+        "published_on": "2022-01-15",
+        "review": "A thrilling and unpredictable journey.",
+        "rating": 5
+      }
+    ]
+  }
+]
