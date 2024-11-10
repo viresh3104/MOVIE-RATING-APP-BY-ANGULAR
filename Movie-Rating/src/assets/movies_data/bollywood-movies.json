@@ -16,7 +16,7 @@
   {
     "id": 2,
     "name": "Dangal",
-    "cover": "https://linktodangalposter.com",
+    "cover": "https://m.media-amazon.com/images/I/71NiFuBLemL._AC_UF894,1000_QL80_.jpg",
     "rating": 4.7,
     "reviews": [
       {
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "name": "Lagaan",
-    "cover": "https://linktolagaanposter.com",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ08wgMXftG8j4rlnW2kYlIXZeMyMWVYQ7cuA&s",
     "rating": 4.6,
     "reviews": [
       {
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "name": "Sholay",
-    "cover": "https://linktosholayposter.com",
+    "cover": "https://i.pinimg.com/originals/86/e8/b2/86e8b22c1bd9834807c278c46accf4ba.jpg",
     "rating": 4.9,
     "reviews": [
       {
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "name": "Kabhi Khushi Kabhie Gham",
-    "cover": "https://linktok3gposter.com",
+    "cover": "https://i.pinimg.com/originals/63/df/81/63df81cab0768b0f33a71a24cc79fed0.jpg",
     "rating": 4.5,
     "reviews": [
       {
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "name": "Dilwale Dulhania Le Jayenge",
-    "cover": "https://linktoddljposter.com",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNDYzNDczNzE0MV5BMl5BanBnXkFtZTcwMzMzODc0MQ@@._V1_.jpg",
     "rating": 4.8,
     "reviews": [
       {
@@ -86,7 +86,7 @@
   {
     "id": 7,
     "name": "Zindagi Na Milegi Dobara",
-    "cover": "https://linktoznmdposter.com",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOGIzYzg5NzItNDRkYS00NmIzLTk3NzQtZWYwY2VlZDhiYWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.7,
     "reviews": [
       {
@@ -100,7 +100,7 @@
   {
     "id": 8,
     "name": "Bajrangi Bhaijaan",
-    "cover": "https://linktobajrangi.poster.com",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Bajrangi_Bhaijaan_Poster.jpg",
     "rating": 4.6,
     "reviews": [
       {
