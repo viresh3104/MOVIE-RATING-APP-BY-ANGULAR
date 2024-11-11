@@ -5,7 +5,6 @@
     color: beige;
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
     .logo{
         font-size: 3.5rem;
         letter-spacing: 1px;
@@ -13,16 +12,14 @@
         cursor: pointer;
     }
     .navbar{
-        left: 1350px;
+        left: 1280px;
         font-size: 22px;
         cursor: pointer ;
         transition: 0.2s ease-in-out;
+        margin-right: 30px;
     }
     .navbar:hover{
         color:  #FB6542;
     }
 
-    .logout{
-        margin-right: 45px;
-    }
 }
