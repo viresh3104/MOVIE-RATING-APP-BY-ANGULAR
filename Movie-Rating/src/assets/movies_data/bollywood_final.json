@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "3 Idiots",
+        "cover": "https://i.etsystatic.com/40506978/r/il/a9b1b7/4660082536/il_570xN.4660082536_bwji.jpg",
+        "rating": 4.8,
+        "Director": "Rajkumar Hirani",
+        "year of release": 2009,
+        "Lead role": "Aamir Khan"
+    },
+    {
+        "id": 2,
+        "name": "Dilwale Dulhania Le Jayenge",
+        "cover": "https://m.media-amazon.com/images/M/MV5BM2QwOWMzMjItYTgyMi00MGQ2LTlmZTEtNWNlZmE1YmM0YTVhXkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.6,
+        "Director": "Aditya Chopra",
+        "year of release": 1995,
+        "Lead role": "Shah Rukh Khan"
+    },
+    {
+        "id": 3,
+        "name": "Kabhi Khushi Kabhie Gham",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMjMwNDY2NDY1OV5BMl5BanBnXkFtZTgwMjg3MjQ2NDE@._V1_.jpg",
+        "rating": 4.5,
+        "Director": "Karan Johar",
+        "year of release": 2001,
+        "Lead role": "Amitabh Bachchan"
+    },
+    {
+        "id": 4,
+        "name": "Dangal",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+        "rating": 4.7,
+        "Director": "Nitesh Tiwari",
+        "year of release": 2016,
+        "Lead role": "Aamir Khan"
+    },
+    {
+        "id": 5,
+        "name": "PK",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_FMjpg_UX1000_.jpg",
+        "rating": 4.6,
+        "Director": "Rajkumar Hirani",
+        "year of release": 2014,
+        "Lead role": "Aamir Khan"
+    },
+    {
+        "id": 6,
+        "name": "Sholay",
+        "cover": "https://m.media-amazon.com/images/M/MV5BOGQ2NjU0MjktMTUyYi00NjQwLTg0ZTAtNzg5NTk0YTRlMWNhXkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.8,
+        "Director": "Ramesh Sippy",
+        "year of release": 1975,
+        "Lead role": "Amitabh Bachchan"
+    },
+    {
+        "id": 7,
+        "name": "Chennai Express",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNjFmN2I5ZWUtOTJmNC00NjhiLTliYmItODViZmNiNmUyOTI3XkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.2,
+        "Director": "Rohit Shetty",
+        "year of release": 2013,
+        "Lead role": "Shah Rukh Khan"
+    },
+    {
+        "id": 8,
+        "name": "Baahubali",
+        "cover": "https://m.media-amazon.com/images/M/MV5BM2YxZThhZmEtYzM0Yi00OWYxLWI4NGYtM2Y2ZDNmOGE0ZWQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "rating": 4.6,
+        "Director": "S. S. Rajamouli",
+        "year of release": 2015,
+        "Lead role": "Prabhas"
+    },
+    {
+        "id": 9,
+        "name": "Bajrangi Bhaijaan",
+        "cover": "https://m.media-amazon.com/images/I/81v7iDZIxaL._SL1500_.jpg",
+        "rating": 4.5,
+        "Director": "Kabir Khan",
+        "year of release": 2015,
+        "Lead role": "Salman Khan"
+    },
+    {
+        "id": 10,
+        "name": "Queen",
+        "cover": "https://m.media-amazon.com/images/I/81iA1VF+K8L._SL1500_.jpg",
+        "rating": 4.6,
+        "Director": "Vikas Bahl",
+        "year of release": 2013,
+        "Lead role": "Kangana Ranaut"
+    },
+    {
+        "id": 11,
+        "name": "Padmaavat",
+        "cover": "https://m.media-amazon.com/images/I/81MNYZ8A6EL._SL1500_.jpg",
+        "rating": 4.4,
+        "Director": "Sanjay Leela Bhansali",
+        "year of release": 2018,
+        "Lead role": "Deepika Padukone"
+    },
+    {
+        "id": 12,
+        "name": "Barfi!",
+        "cover": "https://m.media-amazon.com/images/I/81cdxbV6KrL._SL1500_.jpg",
+        "rating": 4.5,
+        "Director": "Anurag Basu",
+        "year of release": 2012,
+        "Lead role": "Ranbir Kapoor"
+    },
+    {
+        "id": 13,
+        "name": "Andhadhun",
+        "cover": "https://m.media-amazon.com/images/I/81LDFnVP1YL._SL1500_.jpg",
+        "rating": 4.6,
+        "Director": "Sriram Raghavan",
+        "year of release": 2018,
+        "Lead role": "Ayushmann Khurrana"
+    },
+    {
+        "id": 14,
+        "name": "Zindagi Na Milegi Dobara",
+        "cover": "https://m.media-amazon.com/images/I/81q85L5Dq2L._SL1500_.jpg",
+        "rating": 4.5,
+        "Director": "Zoya Akhtar",
+        "year of release": 2011,
+        "Lead role": "Hrithik Roshan"
+    },
+    {
+        "id": 15,
+        "name": "Bajirao Mastani",
+        "cover": "https://m.media-amazon.com/images/I/91lUAvNZM9L._SL1500_.jpg",
+        "rating": 4.4,
+        "Director": "Sanjay Leela Bhansali",
+        "year of release": 2015,
+        "Lead role": "Ranveer Singh"
+    },
+    {
+        "id": 16,
+        "name": "Don",
+        "cover": "https://m.media-amazon.com/images/I/81mmlQVQWBL._SL1500_.jpg",
+        "rating": 4.3,
+        "Director": "Farhan Akhtar",
+        "year of release": 2006,
+        "Lead role": "Shah Rukh Khan"
+    },
+    {
+        "id": 17,
+        "name": "Tanhaji",
+        "cover": "https://m.media-amazon.com/images/I/81-vwp-F6sL._SL1500_.jpg",
+        "rating": 4.5,
+        "Director": "Om Raut",
+        "year of release": 2020,
+        "Lead role": "Ajay Devgn"
+    },
+    {
+        "id": 18,
+        "name": "Sultan",
+        "cover": "https://m.media-amazon.com/images/I/81JdRN07ytL._SL1500_.jpg",
+        "rating": 4.3,
+        "Director": "Ali Abbas Zafar",
+        "year of release": 2016,
+        "Lead role": "Salman Khan"
+    },
+    {
+        "id": 19,
+        "name": "My Name Is Khan",
+        "cover": "https://m.media-amazon.com/images/I/71t2JDThP8L._SL1500_.jpg",
+        "rating": 4.5,
+        "Director": "Karan Johar",
+        "year of release": 2010,
+        "Lead role": "Shah Rukh Khan"
+    },
+    {
+        "id": 20,
+        "name": "Kal Ho Naa Ho",
+        "cover": "https://m.media-amazon.com/images/I/81gdqrD7-pL._SL1500_.jpg",
+        "rating": 4.4,
+        "Director": "Nikkhil Advani",
+        "year of release": 2003,
+        "Lead role": "Shah Rukh Khan"
+    },
+    {
+        "id": 21,
+        "name": "Gully Boy",
+        "cover": "https://m.media-amazon.com/images/I/81noPpYqM+L._SL1500_.jpg",
+        "rating": 4.3,
+        "Director": "Zoya Akhtar",
+        "year of release": 2019,
+        "Lead role": "Ranveer Singh"
+    },
+    {
+        "id": 22,
+        "name": "Rockstar",
+        "cover": "https://m.media-amazon.com/images/I/81p5DBnDUeL._SL1500_.jpg",
+        "rating": 4.5,
+        "Director": "Imtiaz Ali",
+        "year of release": 2011,
+        "Lead role": "Ranbir Kapoor"
+    },
+    {
+        "id": 23,
+        "name": "Lagaan",
+        "cover": "https://m.media-amazon.com/images/I/71JhxZwlXsL._SL1500_.jpg",
+        "rating": 4.7,
+        "Director": "Ashutosh Gowariker",
+        "year of release": 2001,
+        "Lead role": "Aamir Khan"
+    },
+    {
+        "id": 24,
+        "name": "Deewar",
+        "cover": "https://m.media-amazon.com/images/I/81vxRk1sGqL._SL1500_.jpg",
+        "rating": 4.6,
+        "Director": "Yash Chopra",
+        "year of release": 1975,
+        "Lead role": "Amitabh Bachchan"
+    },
+    {
+        "id": 25,
+        "name": "Kuch Kuch Hota Hai",
+        "cover": "https://m.media-amazon.com/images/I/71tlPmGfA3L._SL1500_.jpg",
+        "rating": 4.5,
+        "Director": "Karan Johar",
+        "year of release": 1998,
+        "Lead role": "Shah Rukh Khan"
+    },
+    {
+        "id": 26,
+        "name": "Ghajini",
+        "cover": "https://m.media-amazon.com/images/I/71IIVGXpJ6L._SL1200_.jpg",
+        "rating": 4.4,
+        "Director": "A.R. Murugadoss",
+        "year of release": 2008,
+        "Lead role": "Aamir Khan"
+    },
+    {
+        "id": 27,
+        "name": "Rang De Basanti",
+        "cover": "https://m.media-amazon.com/images/I/71ufAeIpt0L._SL1200_.jpg",
+        "rating": 4.7,
+        "Director": "Rakeysh Omprakash Mehra",
+        "year of release": 2006,
+        "Lead role": "Aamir Khan"
+    },
+    {
+        "id": 28,
+        "name": "Swades",
+        "cover": "https://m.media-amazon.com/images/I/71O4iWlqzmL._SL1500_.jpg",
+        "rating": 4.6,
+        "Director": "Ashutosh Gowariker",
+        "year of release": 2004,
+        "Lead role": "Shah Rukh Khan"
+    },
+    {
+        "id": 29,
+        "name": "Krrish",
+        "cover": "https://m.media-amazon.com/images/I/81J8W+2GTdL._SL1500_.jpg",
+        "rating": 4.2,
+        "Director": "Rakesh Roshan",
+        "year of release": 2006,
+        "Lead role": "Hrithik Roshan"
+    },
+    {
+        "id": 30,
+        "name": "Black",
+        "cover": "https://m.media-amazon.com/images/I/81iGrZGjwDL._SL1500_.jpg",
+        "rating": 4.7,
+        "Director": "Sanjay Leela Bhansali",
+        "year of release": 2005,
+        "Lead role": "Amitabh Bachchan"
+    }
+]
