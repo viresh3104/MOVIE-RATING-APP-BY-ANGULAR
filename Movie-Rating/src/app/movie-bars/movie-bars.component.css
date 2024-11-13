@@ -1,0 +1,113 @@
+.movie-bars {
+  background: #191c1d;
+
+  .all-movies {
+    position: relative;
+    top: 20px;
+    left: 10%;
+    color: beige;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+
+    .bollywood-movies {
+      position: relative;
+
+      .top {
+        margin-top: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        h3 {
+          font-size: 2.5rem;
+          border-left: 5px solid beige;
+          padding-left: 10px;
+        }
+      }
+
+      .movies-thumbnail {
+        padding-top: 10px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding: 2rem;
+        margin-bottom: 2rem;
+
+        .movie {
+          position: relative;
+          transition: transform 0.2s ease-in-out;
+          z-index: 1;
+
+          .cover img {
+            border-radius: 5px;
+            width: 150px;
+            height: 200px;
+            margin-right: 40px;
+            position: relative;
+          }
+
+          .movie-details {
+            margin-bottom: 2rem;
+
+            .name {
+              padding-right: 20px;
+            }
+          }
+
+          .onhovercard {
+            display: none;
+            position: absolute;
+            top: 40%;
+            left: 40%;
+            transform: translate(-50%, -50%);
+            width: 370px;
+            height: 260px;
+            background-color: rgba(0, 0, 0);
+            color: beige;
+            padding: 0.5rem;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            opacity: 0;
+            transition: 0.3s ease-in-out;
+            z-index: 10;
+            border-radius: 10px;
+
+            .info {
+              display: flex;
+              flex-direction: column;
+              font-size: 1rem;
+              margin-top: 18px;
+              margin-bottom: 20px;
+              .maininfo{
+                text-align: left;
+                margin-top: 20px;
+              }
+              .wishlist {
+                margin-top: 1rem; 
+                padding: 0.5rem 2rem; 
+                background-color: #6d96f0;
+                border-radius: 5px;
+                cursor: pointer;
+                color: black;
+              }
+            }
+          }
+
+          &:hover {
+            transform: scale(1.06);
+            z-index: 10;
+
+            .onhovercard {
+              opacity: 1;
+              visibility: visible;
+            }
+          }
+        }
+      }
+    }
+  }
+}
