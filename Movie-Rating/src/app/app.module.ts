@@ -11,6 +11,7 @@ import { FormsModule } from '@angular/forms';
 import { AboutComponent } from './about/about.component';
 import { RegisterComponent } from './register/register.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { MovieBarsComponent } from './movie-bars/movie-bars.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
     HeaderComponent,
     MovieComponent,
     AboutComponent,
-    RegisterComponent
+    RegisterComponent,
+    MovieBarsComponent
   ],
   imports: [
     BrowserModule,
