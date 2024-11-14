@@ -25,8 +25,8 @@
   <div class="all-movies">
     <div class="bollywood-movies">
       <div class="top">
-        <h3>Top Rated Movies</h3>
-        <div class="view-all">View all</div>
+        <h3>Bollywood Movies</h3>
+        <div class="view-all btn" (click)="gotomoviebars()">View all</div>
       </div>
       <div class="movies-thumbnail">
         <div class="movie" *ngFor="let movie of bollywood_movies">
@@ -37,29 +37,15 @@
             <div class="name">{{ movie.name }}</div>
             <div class="rating">{{ movie.rating }}</div>
           </div>
+          <div class="onhovercard">
+            <div class="wishlist btn btn-light">+ Wishlist</div>
+            <div class="director">{{ movie.Director }}</div>
+            <div class="actor">{{ movie.Actor }}</div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <div class="all-movies">
-    <div class="bollywood-movies">
-      <div class="top">
-        <h3>Bollywood Movies</h3>
-        <div class="view-all">View all</div>
-      </div>
-      <div class="movies-thumbnail">
-        <div class="movie" *ngFor="let movie of bollywood_final">
-          <div class="cover">
-            <img [src]="movie.cover" alt="" />
-          </div>
-          <div class="movie-details">
-            <div class="name">{{ movie.name }}</div>
-            <div class="rating">{{ movie.rating }}</div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 
   <div class="all-movies">
@@ -69,7 +55,7 @@
         <div class="view-all">View all</div>
       </div>
       <div class="movies-thumbnail">
-        <div class="movie" *ngFor="let movie of bollywood_movies">
+        <div class="movie" *ngFor="let movie of hollywood_movies">
           <div class="cover">
             <img [src]="movie.cover" alt="" />
           </div>
