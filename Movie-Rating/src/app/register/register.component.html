@@ -1,9 +1,47 @@
-<div class="register">
-    <h1>opps feature is under development!!!<br>
-        but  no worries you can use my id password<br>
-        username: viresh <br>
-        password: 1234
-    </h1>
-    <button class="btn" (click)="backtologin()">Back to Login</button>    
+<div class="registration-component">
+      <img src="assets/char.png" class="char" alt="" />
+
+    <div class="logo">Real Ranks</div>
+    <div class="desc">Rank and review films with ease </div>
+
+    <div class="registration-form">
+        <div class="form-group">
+            <label for="fullname">Full-Name</label>
+            <input type="text" name="name" class="form-control" placeholder="Enter Your Name" [(ngModel)]='fullname'>
+        </div>
+
+        <div class="from-group">
+            <label for="email">Email</label>
+            <input type="email" name="email" class="form-control" placeholder="Enter Your Email" [(ngModel)]="email">
+        </div>
+
+        <div class="from-group">
+            <label for="username">Username</label>
+            <input type="text" name="username" class="form-control" placeholder="Enter Username"[(ngModel)]='username'>
+        </div>
+
+        <div class="from-group">
+            <label for="password">Password</label>
+            <input type="password" name="password" class="form-control" placeholder="Enter Your Password" [(ngModel)]="password">
+        </div>
+
+        <div class="from-group">
+            <label for="cpassword">Confirm-Password</label>
+            <input type="password" name="cpassword" class="form-control" placeholder="Confirm Password"[(ngModel)]='confirmPassword'>
+        </div>
+
+        <div class="btn-container">
+            <div class="msg">{{ msg }}</div>
+          <button class="btn" (click)="register()"> Register </button>
+          <button class="btn" (click)="backtologin()"> Back to Login </button>
+        </div>
+    </div>
+
+    <div class="about-text">
+        <button class="btn" (click)="about()">About Us</button>
+    </div>
 </div>
+
+
+
 
