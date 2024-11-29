@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./home.component.css'],
 })
 export class HomeComponent {
-  constructor(private http: HttpClient , private router:Router) {}
+  constructor(private http: HttpClient, private router: Router) {}
 
   ngOnInit(): void {
     this.gethollywoodmovies();
@@ -18,23 +18,23 @@ export class HomeComponent {
   hollywood_movies: any;
   bollywood_movies: any;
 
-  gethollywoodmovies() {
-    this.http
-      .get<any[]>('http://localhost:4200/assets/movies_data/hollywood.json')
-      .subscribe((movies) => {
-        this.hollywood_movies = movies.slice(0,8);
-      });
-  }
-
   getbollywoodmovies() {
     this.http
       .get<any[]>('http://localhost:4200/assets/movies_data/bollywood.json')
       .subscribe((movies) => {
-        this.bollywood_movies = movies.slice(0,8);
+        this.bollywood_movies = movies.slice(0, 8);
       });
   }
 
-  gotomoviebars(){
-    this.router.navigate(['/movie-bars']);
+  gethollywoodmovies() {
+    this.http
+      .get<any[]>('http://localhost:4200/assets/movies_data/hollywood.json')
+      .subscribe((movies) => {
+        this.hollywood_movies = movies.slice(0, 8);
+      });
+  }
+
+  gotomoviedetails() {
+    this.router.navigate(['/movie']);
   }
 }
