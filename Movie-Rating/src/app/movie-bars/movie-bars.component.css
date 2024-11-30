@@ -1,5 +1,6 @@
 .movie-bars {
   background: #191c1d;
+  height: 100%;
 
   .all-movies {
     position: relative;
@@ -10,7 +11,7 @@
     display: flex;
     flex-direction: column;
 
-    .bollywood-movies {
+    .category {
       position: relative;
 
       .top {
@@ -48,6 +49,7 @@
           }
 
           .movie-details {
+            margin-top: 0.2rem;;
             margin-bottom: 2rem;
 
             .name {
@@ -63,8 +65,8 @@
             transform: translate(-50%, -50%);
             width: 370px;
             height: 260px;
-            background-color: rgba(0, 0, 0);
-            color: beige;
+            background-color:white;
+            color: black;
             padding: 0.5rem;
             display: flex;
             flex-direction: row;
@@ -87,12 +89,21 @@
                 margin-top: 20px;
               }
               .wishlist {
-                margin-top: 1rem; 
-                padding: 0.5rem 2rem; 
+                margin: 0.5rem; 
+                padding: 0.2rem 2rem; 
                 background-color: #6d96f0;
                 border-radius: 5px;
                 cursor: pointer;
                 color: black;
+              }
+              .view-details{
+                padding: 0.2rem 2rem; 
+                background-color: #6d96f0;
+                border-radius: 5px;
+                cursor: pointer;
+                color: black;
+                margin-bottom: 10px;
+
               }
             }
           }

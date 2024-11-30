@@ -2,12 +2,12 @@
   <app-header></app-header>
 
   <div class="all-movies">
-    <div class="bollywood-movies">
+    <div class="category">
       <div class="top">
-        <h3>Bollywood Movies</h3>
+        <h3 *ngFor="let title of gonera">{{ title }}</h3>
       </div>
       <div class="movies-thumbnail">
-        <div class="movie" *ngFor="let movies of bollywood_movies">
+        <div class="movie" *ngFor="let movies of movielist">
           <div class="cover">
             <img [src]="movies.cover" alt="" />
           </div>
@@ -18,21 +18,27 @@
 
           <div class="onhovercard">
             <div class="cover">
-                <img [src]="movies.cover" alt="" />
-              </div>
-              <div class="info">
-                
-                <div class="maininfo">
-                    <div class="director">Director: <br> {{ movies.Director }}</div>
-                    <div class="actor">Actor: <br> {{ movies.Actor }}</div>
-                    <div class="year">Year: {{movies.yearofrelease}}</div>
-                    <div class="rating">Rating: {{movies.rating}}</div>
+              <img [src]="movies.cover" alt="" />
+            </div>
+            <div class="info">
+              <div class="maininfo">
+                <div class="director">
+                  Director: <br />
+                  {{ movies.Director }}
                 </div>
-                <div class="wishlist btn">+ Wishlist</div>
+                <div class="actor">
+                  Actor: <br />
+                  {{ movies.Actor }}
+                </div>
+                <div class="year">Year: {{ movies.yearofrelease }}</div>
+                <div class="rating">Rating: {{ movies.rating }}</div>
               </div>
-
+              <div class="wishlist btn">+ Wishlist</div>
+              <div class="view-details btn" (click)="gotomoviedetails(movies)">
+                View Details
+              </div>
+            </div>
           </div>
-
         </div>
       </div>
     </div>
