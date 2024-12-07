@@ -15,7 +15,7 @@ const routes: Routes = [
   {path:'movie', component: MovieComponent},
   {path:'about', component: AboutComponent},
   {path:'register', component: RegisterComponent},
-  {path:'movie-bars', component: MovieBarsComponent},
+  {path:'movie-bars/:gonera', component: MovieBarsComponent},
   {path:'**', component: LoginComponent}
   
 ];
