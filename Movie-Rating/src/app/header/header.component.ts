@@ -14,6 +14,12 @@ export class HeaderComponent {
     this.router.navigate(['/home']);
   }
 
+  gotoWishList(){
+    
+    this.router.navigate(['/wishlist']);
+
+  }
+
   gotologin(){
     this.auth.logout();
   }
