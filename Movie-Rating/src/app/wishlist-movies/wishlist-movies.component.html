@@ -1,0 +1,17 @@
+<div class="movie-bars">
+    <app-header></app-header>
+  
+    <div class="all-movies">
+      <div class="category">
+        <div class="top">
+          <h3>WishList Movies</h3>
+        </div>
+        <div class="movies-thumbnail">
+          <div class="movie" *ngFor="let movie of movieService.wishListMovies">
+            <app-movie-card [movieDetails]="movie" (goToViewDetails)="gotomoviedetails($event)"></app-movie-card>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
