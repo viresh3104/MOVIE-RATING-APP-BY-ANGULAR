@@ -1,0 +1,35 @@
+<div class="movieCard">
+    <div class="cover">
+        <img [src]="movieDetails.cover" alt="" />
+      </div>
+      <div class="movie-details">
+        <div class="name">{{ movieDetails.name }}</div>
+        <div class="rating">{{ movieDetails.rating }}</div>
+      </div>
+
+      <div class="onhovercard">
+        <div class="cover">
+          <img [src]="movieDetails.cover" alt="" />
+        </div>
+        <div class="info">
+          <div class="maininfo">
+            <div class="director">
+              Director: <br />
+              {{ movieDetails.Director }}
+            </div>
+            <div class="actor">
+              Actor: <br />
+              {{ movieDetails.Actor }}
+            </div>
+            <div class="year">Year: {{ movieDetails.yearofrelease }}</div>
+            <div class="rating">Rating: {{ movieDetails.rating }}</div>
+          </div>
+          <div class="wishlist btn" *ngIf="!movieDetails.isWishlisted" (click)="wishlistClicked(movieDetails, true)">+ Wishlist</div>
+          <div class="wishlist btn" *ngIf="movieDetails.isWishlisted" (click)="wishlistClicked(movieDetails, false)">Remove</div>
+          <div class="view-details btn" (click)="viewDetailsClicked(movieDetails)">
+            View Details
+          </div>
+        </div>
+      </div>
+
+</div>

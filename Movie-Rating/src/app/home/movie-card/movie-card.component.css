@@ -1,0 +1,75 @@
+.movieCard {
+  position: relative; /* Ensures relative positioning for the hover card */
+
+  &:hover {
+    z-index: 10; /* Brings card to the front when hovered */
+
+    .onhovercard {
+      opacity: 1;
+      pointer-events: auto; /* Enable interaction when visible */
+      transform: translate(-50%, -50%) scale(1); /* Make sure scaling is centered */
+    }
+  }
+
+  .cover img {
+    border-radius: 5px;
+    width: 150px;
+    height: 200px;
+    margin-right: 40px;
+    z-index: 1;
+  }
+
+  .movie-details {
+    margin-bottom: 1rem;
+  }
+
+  .onhovercard {
+    opacity: 0;
+    pointer-events: none; /* Prevent interaction when hidden */
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.9); /* Start smaller and centered */
+    width: 370px;
+    height: 280px;
+    background-color: white;
+    color: black;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; /* Smooth transition for both */
+    z-index: 10;
+    border-radius: 10px;
+    will-change: opacity, transform; /* Optimizing for smoother animations */
+    transform-origin: center; /* Ensure scaling occurs from the center */
+  }
+
+  .info {
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    margin: 18px 0 20px;
+
+    .maininfo {
+      text-align: left;
+      margin-top: 20px;
+    }
+
+    .wishlist,
+    .view-details {
+      margin: 0.5rem 0;
+      padding: 0.2rem 2rem;
+      background-color: #6d96f0;
+      border-radius: 5px;
+      cursor: pointer;
+      color: black;
+    }
+
+    .view-details {
+      margin-bottom: 10px;
+    }
+  }
+}
