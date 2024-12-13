@@ -6,6 +6,7 @@ import { MovieComponent } from './movie/movie.component';
 import { AboutComponent } from './about/about.component';
 import { RegisterComponent } from './register/register.component';
 import { MovieBarsComponent } from './movie-bars/movie-bars.component';
+import { WishlistMoviesComponent } from './wishlist-movies/wishlist-movies.component';
 
 
 const routes: Routes = [
@@ -15,7 +16,8 @@ const routes: Routes = [
   {path:'movie', component: MovieComponent},
   {path:'about', component: AboutComponent},
   {path:'register', component: RegisterComponent},
-  {path:'movie-bars/:gonera', component: MovieBarsComponent},
+  {path:'movie-bars/:category', component: MovieBarsComponent},
+  {path:'wishlist', component: WishlistMoviesComponent},
   {path:'**', component: LoginComponent}
   
 ];
