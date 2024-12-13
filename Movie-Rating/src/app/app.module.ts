@@ -12,6 +12,9 @@ import { AboutComponent } from './about/about.component';
 import { RegisterComponent } from './register/register.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { MovieBarsComponent } from './movie-bars/movie-bars.component';
+import { MovieCardComponent } from './home/movie-card/movie-card.component';
+import { WishlistMoviesComponent } from './wishlist-movies/wishlist-movies.component';
+import { MovieSliderComponent } from './home/movie-slider/movie-slider.component';
 
 
 @NgModule({
@@ -23,7 +26,10 @@ import { MovieBarsComponent } from './movie-bars/movie-bars.component';
     MovieComponent,
     AboutComponent,
     RegisterComponent,
-    MovieBarsComponent
+    MovieBarsComponent,
+    MovieCardComponent,
+    WishlistMoviesComponent,
+    MovieSliderComponent
   ],
   imports: [
     BrowserModule,
