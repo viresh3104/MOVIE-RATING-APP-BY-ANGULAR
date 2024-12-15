@@ -3,7 +3,7 @@
 
   <app-movie-slider></app-movie-slider>
 
-  <ng-container *ngFor="let movie of allMovies">
+  <ng-container *ngFor="let movie of movieService.slicedMovies">
     <div class="all-movies">
       <div class="category">
         <div class="top">
@@ -19,7 +19,7 @@
             <app-movie-card
               [movieDetails]="movie"
               (goToViewDetails)="gotomoviedetails($event)"
-              (wishListClicked)="saveInWishListArray($event)"
+              (wishListClicked)="wishlistService($event)"
             >
             </app-movie-card>
           </div>

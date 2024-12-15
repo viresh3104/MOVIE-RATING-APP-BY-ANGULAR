@@ -10,27 +10,35 @@ import { MovieService } from '../services/movie.service';
   styleUrls: ['./home.component.css'],
 })
 export class HomeComponent {
-  allMovies: any;
   constructor(
     private http: HttpClient,
     private router: Router,
-    private movieService: MovieService
+    public movieService: MovieService
   ) {}
 
   ngOnInit(): void {
-    this.getMovies();
+    this.movieService.loadAllMovies();
+    this.getSlicedMovies();
   }
 
-  getMovies() {
+  getSlicedMovies() {
     this.http
-      .get<any[]>('http://localhost:4200/assets/movies_data/movieCategory.json')
-      .subscribe((movies) => {
-        this.allMovies = movies;
-        //deep copy
-        this.allMovies.forEach((movieCategory: any) => {
-          movieCategory.movieList = [...movieCategory.movieList.slice(0, 8)];
-        });
-      });
+      // .get<any[]>('http://localhost:4200/assets/movies_data/movieCategory.json')
+      // .subscribe((movies) => {
+        // this.movieService.allMovies = movies;
+        this.movieService.slicedMovies = JSON.parse(JSON.stringify(this.movieService.allMovies ));
+
+        const wishlistIds = this.movieService.wishListMovies.map((item: any) => item.id); 
+
+        this.movieService.slicedMovies.forEach((movieCategory: any) => {
+          movieCategory.movieList = movieCategory.movieList.slice(0, 8).map((movie: any) => {
+            return {
+              ...movie,
+              isWishlisted: wishlistIds.includes(movie.id) 
+            };
+          });
+        });     
+      //});
   }
 
   gotomoviedetails(movie: any) {
@@ -40,35 +48,10 @@ export class HomeComponent {
       },
     });
   }
-
-  saveInWishListArray(data: any) {
-    const movie = data.movie_clicked; // The movie object clicked
-    const isWishList = data.movie_isWishList; // The boolean value for wishlist status
-
-    // Loop through all movie categories to find the movie in the movieList
-    this.allMovies.forEach((movieCategory: any) => {
-      const movieInCategory = movieCategory.movieList.find((m: any) => m.id === movie.id);
-
-      // If the movie is found in the category, update its isWishlisted property
-      if (movieInCategory) {
-        movieInCategory.isWishlisted = isWishList;
-
-        if (isWishList) {
-          // Check if the movie is not already in the wishlist
-          if (!this.movieService.wishListMovies.some((m: any) => m.id === movie.id)) 
-          {
-            this.movieService.wishListMovies.push(movie); // Add to wishlist
-          }
-        } else {
-          // Remove the movie from the wishlist
-          const index = this.movieService.wishListMovies.findIndex(
-            (m: any) => m.id === movie.id
-          );
-          if (index !== -1) {
-            this.movieService.wishListMovies.splice(index, 1); // Remove from wishlist
-          }
-        }
-      }
-    });
-  }
+  
+// for wishlist
+wishlistService(data:any)
+{
+  this.movieService.saveInWishListArray(data);  
+}
 }

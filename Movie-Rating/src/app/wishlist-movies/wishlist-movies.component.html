@@ -1,17 +1,41 @@
-<div class="movie-bars">
-    <app-header></app-header>
-  
-    <div class="all-movies">
-      <div class="category">
-        <div class="top">
-          <h3>WishList Movies</h3>
-        </div>
-        <div class="movies-thumbnail">
-          <div class="movie" *ngFor="let movie of movieService.wishListMovies">
-            <app-movie-card [movieDetails]="movie" (goToViewDetails)="gotomoviedetails($event)"></app-movie-card>
+<div class="wishlist-movies">
+  <app-header></app-header>
+
+  <div class="all-movies">
+    <div class="category">
+      <div class="top">
+        <h3>WishList Movies</h3>
+      </div>
+      <div class="movies-thumbnail">
+        <div
+          class="movie"
+          *ngFor="let movieDetails of movieService.wishListMovies"
+        >
+          <div class="card">
+            <div class="cover">
+              <img [src]="movieDetails.cover" alt="" />
+            </div>
+            <div class="info">
+              <div class="maininfo">
+                <div class="actor">Actor : {{ movieDetails.Actor }}</div>
+                <div class="director">Director:{{ movieDetails.Director }}</div>
+                <div class="year">Year: {{ movieDetails.yearofrelease }}</div>
+                <div class="rating">Rating: {{ movieDetails.rating }}</div>
+              </div>
+              <div class="rating-stars">
+                <span *ngFor="let star of generateStars(movieDetails.rating)">
+                  <i class="fa fa-star" aria-hidden="true"></i>
+                </span>
+                <span *ngFor="let star of generateEmptyStars(movieDetails.rating)">
+                  <i class="fa fa-star-o" aria-hidden="true"></i>
+                </span>
+              </div>
+              <div class="close-icon" (click)="removewishlist(movieDetails)">x</div>
+              <div class="view-details btn"(click)="viewDetailsClicked(movieDetails)">View Details</div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  
+</div>

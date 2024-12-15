@@ -10,8 +10,9 @@ import { MovieService } from '../services/movie.service';
   styleUrl: './movie-bars.component.css',
 })
 export class MovieBarsComponent {
+  allMovies: any;
   movielist: any[] = [];
-  gonera: string = '';
+  category: string = '';
 
   constructor(
     private http: HttpClient,
@@ -21,25 +22,25 @@ export class MovieBarsComponent {
   ) {}
 
   ngOnInit(): void {
-    this.gonera = this.router.snapshot.paramMap.get('category')!;
-    this.fetchMoviesByGonera(this.gonera);
+    this.category = this.router.snapshot.paramMap.get('category')!;
+    this.fetchMoviesByGonera(this.category);
   }
 
-  fetchMoviesByGonera(gonera: string): void {
-    if (gonera === 'Bollywood') {
-      this.http
-        .get<any[]>('http://localhost:4200/assets/movies_data/bollywood.json')
-        .subscribe((movies) => {
-          this.movielist = movies;
+  fetchMoviesByGonera(category: String) {
+    const wishlistIds = this.movieService.wishListMovies.map((item: any) => item.id);
+
+    this.movieService.allMovies.forEach((movieCategory: any) => {
+      if (movieCategory.category == category) {
+        this.movielist = movieCategory.movieList.map((movie: any) => {
+          return {
+            ...movie,
+            isWishlisted: wishlistIds.includes(movie.id),
+          };
         });
-    } else if (gonera === 'Hollywood') {
-      this.http
-        .get<any[]>('http://localhost:4200/assets/movies_data/hollywood.json')
-        .subscribe((movies) => {
-          this.movielist = movies;
-        });
-    }
+      }
+    });
   }
+
   gotomoviedetails(movie: any) {
     this.route.navigate(['/movie'], {
       queryParams: {
@@ -48,8 +49,12 @@ export class MovieBarsComponent {
     });
   }
 
-  saveInWishListArray(movie: any) {
-    alert('Added to Wishlist');
-    this.movieService.wishListMovies.push(movie);
+  wishlistmanage(data: any) {
+    this.movielist.forEach((movie: any) => {
+      if (movie.id == data?.movie_clicked?.id) {
+          movie.isWishlisted = data.movie_isWishList;
+      }
+    });
+    this.movieService.saveInWishListArray(data);
   }
 }
