@@ -10,9 +10,44 @@
         "Director": "Rajkumar Hirani",
         "yearofrelease": 2009,
         "Actor": "Aamir Khan",
+        "cast": [
+          {
+            "name": "Aamir Khan",
+            "character": "Rancho",
+            "image": "https://cdn.britannica.com/25/162425-050-B767198B/Aamir-Khan.jpg"
+          },
+          {
+            "name": "Sharman Joshi",
+            "character": "Raju Rastogi",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWZiOWE2NjYtMDI3Ny00NzEyLTlmYTgtM2M5ZDFjYTQxYTA2XkEyXkFqcGc@._V1_.jpg"
+          },
+          {
+            "name": "R. Madhavan",
+            "character": "Farhan Qureshi",
+            "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/260252_v9_bb.jpg"
+          },
+          {
+            "name": "Kareena Kapoor",
+            "character": "Pia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kareena_Kapoor_Khan_in_2023_%281%29_%28cropped%29.jpg/220px-Kareena_Kapoor_Khan_in_2023_%281%29_%28cropped%29.jpg"
+          },
+          {
+            "name": "Boman Irani",
+            "character": "Viru S.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCCgbIYKvmudLIWgkrtml0WTgbMKmTY8EOEa3Zd2WjqFuvE9XCUZGEXp7Z5y2a8Aeq6A&usqp=CAU"
+          },
+          {
+            "name": "Omi Vaidya",
+            "character": "chatur",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjE2MjYzMjg0NV5BMl5BanBnXkFtZTcwMTYwNzMxOA@@._V1_.jpg"
+          }
+        ],
         "isWishlisted": false,
-        "trailor_link":"https://www.youtube-nocookie.com/embed/MD7v0-igVIM?si=zJ65ep0iHgoUCyUC&amp;controls=0"
-        
+        "trailor_link": "https://www.youtube-nocookie.com/embed/7PzwOiW8-n0?si=b4NSgqfAqzKcD3lL&amp;controls=0",
+        "spotifyLink": "https://open.spotify.com/playlist/0wS9yyjB3RJWFO2fZNhLS4?si=DV-Jm9twTCKwviNNxUSS6Q",
+        "watchNow": "https://www.primevideo.com/dp/amzn1.dv.gti.3ab5ef58-05e2-9566-9c5a-e2d491536133?autoplay=0&ref_=atv_cf_strg_wb",
+        "ott": "assets/prime.png",
+        "description": "In college, Farhan and Raju form a great bond with Rancho due to his refreshing outlook. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive."
       },
       {
         "id": "b2",
@@ -22,268 +57,1616 @@
         "Director": "Aditya Chopra",
         "yearofrelease": 1995,
         "Actor": "Shah Rukh Khan",
+        "cast": [
+          {
+            "name": "Shah Rukh Khan",
+            "character": "Raj Malhotra",
+            "image": "https://www.cinejosh.com/newsimg/newsmainimg/srk-showers-praises-on-south-cinema_b_1308240403.jpg"
+          },
+          {
+            "name": "Kajol",
+            "character": "Simran Singh",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjQ5MTQ4N15BMl5BanBnXkFtZTgwOTIyMDU0OTE@._V1_.jpg"
+          },
+          {
+            "name": "Karan Johar",
+            "character": "Rocky",
+            "image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/karan-johar-1147-23-09-2017-12-55-15.jpg"
+          },
+          {
+            "name": "Amrish Puri",
+            "character": "Baldev Singh",
+            "image": "https://cinetown.s3.ap-south-1.amazonaws.com/people/profile_img/1690367934.png"
+          },
+          {
+            "name": "Anupam Kher",
+            "character": "Dharamvir",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWI1MGI2MWQtNjM1NS00NDg3LTg5ZmMtNzI3YzM2YjNiYjFiXkEyXkFqcGc@._V1_.jpg"
+          },
+          {
+            "name": "Farida Jalal",
+            "character": "Lajwanti",
+            "image": "https://www.bollywoodshaadis.com/img/article-2024618020540675246000.webp"
+          }
+        ],
         "isWishlisted": false,
-        "trailor_link":"https://www.youtube-nocookie.com/embed/7PzwOiW8-n0?si=b4NSgqfAqzKcD3lL&amp;controls=0"
+        "trailor_link": "https://www.youtube-nocookie.com/embed/oIZ4U21DRlM?si=c9hNFeXVb7we6buJ&amp;controls=0",
+        "spotifyLink": "https://open.spotify.com/album/34brcN9uQ58LoWCh3R17sF",
+        "watchNow": "https://www.primevideo.com/dp/amzn1.dv.gti.0cabea87-f67f-d804-5d8e-a5095ae42fb9?autoplay=0&ref_=atv_cf_strg_wb",
+        "ott": "assets/prime.png",
+        "description": "Raj and Simran meet during a trip across Europe and the two fall in love. However, when Raj learns that Simran is already promised to another, he follows her to India to win her and her father over."
       },
       {
-        "id": 3,
+        "id": "b3",
         "name": "KKKG",
         "cover": "https://m.media-amazon.com/images/M/MV5BMjMwNDY2NDY1OV5BMl5BanBnXkFtZTgwMjg3MjQ2NDE@._V1_.jpg",
         "rating": 4.5,
         "Director": "Karan Johar",
         "yearofrelease": 2001,
         "Actor": "Amitabh Bachchan",
-        "isWishlisted": false
+        "cast": [
+          {
+            "name": "Kareena Kapoor",
+            "character": "Poo",
+            "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/247102_v9_bb.jpg"
+          },
+          {
+            "name": "Shah Rukh Khan",
+            "character": "Rahul",
+            "image": "https://www.cinejosh.com/newsimg/newsmainimg/srk-showers-praises-on-south-cinema_b_1308240403.jpg"
+          },
+          {
+            "name": "Kajol",
+            "character": "Anjali",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjQ5MTQ4N15BMl5BanBnXkFtZTgwOTIyMDU0OTE@._V1_.jpg"
+          },
+          {
+            "name": "Hrithik Roshan",
+            "character": "Rohan",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8V91dSjcWWyyfwO0xVE7YHlZm5CP9M0-mK6EUBUfS4CzntmxW6oYzauVUuYPpSEGSbscMFCrkRGgZDMObeoAfQ"
+          },
+          {
+            "name": "Amitabh B.",
+            "character": "Yash",
+            "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRamZ61AD3ZJdbIfulThBpr4oUie6F1SgxjUimyafQVrIIwpWgdb3-pd8rSUt1gG-_btXCr4LXLnGWIu6Y"
+          },
+          {
+            "name": "Jaya Bachchan",
+            "character": "Nandini",
+            "image": "https://image-timescontent.timesgroup.com/thumb/204459.webp"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube-nocookie.com/embed/WAuft9tqWzc?si=6dxds8uCJ9yOXB8u&amp;controls=0",
+        "spotifyLink": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh",
+        "watchNow": "https://www.netflix.com/in/title/60036750?source=35",
+        "ott": "assets/netflix.png",
+        "description": "The adopted but much loved elder son of a rich couple is banished by his father when he chooses to wed a middle-class woman. Their younger son sets out to find him, hoping to reunite his family."
       },
       {
-        "id": 4,
+        "id": "b4",
         "name": "Dangal",
         "cover": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY281_CR6,0,190,281_.jpg",
         "rating": 4.7,
         "Director": "Nitesh Tiwari",
         "yearofrelease": 2016,
         "Actor": "Aamir Khan",
-        "isWishlisted": false
+        "cast": [
+          {
+            "name": "Aamir Khan",
+            "character": "Mahavir Phogat",
+            "image": "https://cdn.britannica.com/25/162425-050-B767198B/Aamir-Khan.jpg"
+          },
+          {
+            "name": "Sakshi Tanwar",
+            "character": "Daya Kaur",
+            "image": "https://i2.cinestaan.com/image-bank/1500-1500/172001-173000/172333.jpg"
+          },
+          {
+            "name": "Fatima Shaikh",
+            "character": "Geeta Phogat",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTU4NmI0ZjQtZmVjNi00ZWFmLTg5MTktNjAzMDhhOGVkMjQ5XkEyXkFqcGc@._V1_.jpg"
+          },
+          {
+            "name": "Sanya Malhotra",
+            "character": "Babita Kumari",
+            "image": "https://assets.vogue.in/photos/650d41db2e1c0936b4935551/1:1/w_1080,h_1080,c_limit/Snapinsta.app_378982788_18389904124033071_2845458012973676587_n_1080.jpg"
+          },
+          {
+            "name": "Zaira Wasim",
+            "character": "Young Geeta",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGFiZWJkNTYtOTExYy00YWQ3LTlkYmItMDRjMTIxYzYxMjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+          },
+          {
+            "name": "Suhani B.",
+            "character": "Young Babita",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2YG6rr1qdmlXPLhwqhEJq65xRWLtlA1aQ7PalVzCauygPwaLXDsrxsMmecZ8ro0OtwI&usqp=CAU"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube-nocookie.com/embed/x_7YlGv9u1g?si=G3KL-xbJfEFy5zPt&amp;controls=0&amp;start=5",
+        "spotifyLink": "https://open.spotify.com/album/4o2OW9vdqCg3uZ1JgEFvEa",
+        "watchNow": "https://www.primevideo.com/dp/amzn1.dv.gti.38ce4ab9-8c06-440f-9298-1ce328069f23?autoplay=0&ref_=atv_cf_strg_wb",
+        "ott": "assets/prime.png",
+        "description": "Mahavir Singh Phogat, a former wrestler, decides to fulfil his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas."
       },
       {
-        "id": 5,
+        "id": "b5",
         "name": "PK",
         "cover": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.6,
         "Director": "Rajkumar Hirani",
         "yearofrelease": 2014,
         "Actor": "Aamir Khan",
-        "isWishlisted": false
+        "cast": [
+          {
+            "name": "Aamir Khan",
+            "character": "PK",
+            "image": "https://cdn.britannica.com/25/162425-050-B767198B/Aamir-Khan.jpg"
+          },
+          {
+            "name": "Anushka Sharma",
+            "character": "Jaggu",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWM3NzA4MmEtZTQzMC00N2QyLTg2YTctYjgxMWU4ZDA0ODg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+          },
+          {
+            "name": "Sushant Rajput",
+            "character": "Sarfaraz",
+            "image": "https://imgeng.jagran.com/webstories/50590/sushant-singh-rajput-1686729405.jpeg"
+          },
+          {
+            "name": "Boman Irani",
+            "character": "Cherry Bajwa",
+            "image": "https://www.newsstudio18.com/wp-content/uploads/2022/12/54230.jpeg"
+          },
+          {
+            "name": "Saurabh Shukla",
+            "character": "Tapasvi",
+            "image": "https://staticeu.sweet.tv/images/cache/person_profiles/BD6MQAISAJSW4IAD/25724-saurabh-shukla.jpg"
+          },
+          {
+            "name": "Sanjay Dutt",
+            "character": "Bhairon Singh",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPLIavqIskAtqZLbIjkn8FGZuIt82f7C6aFhx_Um4ryxnIjahtb-XbdDVUYOd3rR0SFgD8geTvPjKsHGbmwksieA"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/SOXWc32k4zA?si=W2XMmAx4pkwCB6hi&amp;controls=0&amp;start=1",
+        "spotifyLink": "https://open.spotify.com/playlist/0EAiYM8xEFVauArQ08ESqf",
+        "watchNow": "https://www.netflix.com/in/title/70303496?source=35",
+        "ott": "assets/netflix.png",
+        "description": "An innocent alien lands on Earth but loses his communication device. He meets Jaggu, a heartbroken reporter, and tries to find his device. With time, he raises many thought-provoking questions."
       },
       {
-        "id": 6,
+        "id": "b6",
         "name": "Sholay",
         "cover": "https://m.media-amazon.com/images/M/MV5BOGQ2NjU0MjktMTUyYi00NjQwLTg0ZTAtNzg5NTk0YTRlMWNhXkEyXkFqcGc@._V1_.jpg",
         "rating": 4.8,
         "Director": "Ramesh Sippy",
         "yearofrelease": 1975,
         "Actor": "Amitabh Bachchan",
-        "isWishlisted": false
+        "cast": [
+          {
+            "name": "Amitabh Bachchan",
+            "character": "Jai",
+            "image": "https://cdn.britannica.com/20/182620-050-B45AF06F/Amitabh-Bachchan-2013.jpg"
+          },
+          {
+            "name": "Dharmendra",
+            "character": "Veeru",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dharmendra_Salman_Khan.jpg/220px-Dharmendra_Salman_Khan.jpg"
+          },
+          {
+            "name": "Hema Malini",
+            "character": "Basanti",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hema_Malini_1.jpg"
+          },
+          {
+            "name": "Jaya Bachchan",
+            "character": "Radha",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Jaya_Bachchan.jpg"
+          },
+          {
+            "name": "Sanjeev Kumar",
+            "character": "Thakur",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sanjeev_Kumar.jpg/220px-Sanjeev_Kumar.jpg"
+          },
+          {
+            "name": "Amjad Khan",
+            "character": "Gabbar Singh",
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/73/AmjadKhan.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/fefaxq2nXoE?si=po8e3G2t_0Mi8XT_&start=3",
+        "spotifyLink": "https://open.spotify.com/album/0Dc7a2Mtb5xHrwb5YauGZG",
+        "watchNow": "https://www.amazon.com/Sholay-Amitabh-Bachchan/dp/B084GZTFY6",
+        "ott": "assets/amazon.png",
+        "description": "A retired police officer hires two outlaws to capture a ruthless bandit terrorizing his village."
       },
       {
-        "id": 7,
+        "id": "b7",
         "name": "Chennai Express",
         "cover": "https://m.media-amazon.com/images/M/MV5BNjFmN2I5ZWUtOTJmNC00NjhiLTliYmItODViZmNiNmUyOTI3XkEyXkFqcGc@._V1_.jpg",
         "rating": 4.2,
         "Director": "Rohit Shetty",
         "yearofrelease": 2013,
         "Actor": "Shah Rukh Khan",
-        "isWishlisted": false
+        "cast": [
+          {
+            "name": "Shah Rukh Khan",
+            "character": "Rahul",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Shah_Rukh_Khan_in_2012.jpg"
+          },
+          {
+            "name": "Deepika Padukone",
+            "character": "Meena",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Deepika_Padukone_Cannes_2019_%28cropped%29.jpg"
+          },
+          {
+            "name": "Sathyaraj",
+            "character": "Durgeshwara Azhagusundaram",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sathyaraj.jpg/220px-Sathyaraj.jpg"
+          },
+          {
+            "name": "Nikitin Dheer",
+            "character": "Tangaballi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nikitin_Dheer.jpg/220px-Nikitin_Dheer.jpg"
+          },
+          {
+            "name": "Kamini Kaushal",
+            "character": "Rahul's Grandmother",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kamini_Kaushal_2006-04-15.jpg/220px-Kamini_Kaushal_2006-04-15.jpg"
+          },
+          {
+            "name": "Manoj Joshi",
+            "character": "Shopkeeper",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Manoj_Joshi_in_2017_%28cropped%29.jpg/220px-Manoj_Joshi_in_2017_%28cropped%29.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/hZGR5Sj1Bfo?si=3vBsv3on6YMn4jky&start=3",
+        "spotifyLink": "https://open.spotify.com/album/6CUkIFZElxBMs4Lb7KHeZB",
+        "watchNow": "https://www.netflix.com/in/title/70276568",
+        "ott": "assets/netflix.png",
+        "description": "Rahul, on his way to immerse his grandfather's ashes, boards the wrong train and meets Meena, changing the course of his life."
       },
       {
-        "id": 8,
+        "id": "b8",
         "name": "Baahubali",
         "cover": "https://m.media-amazon.com/images/M/MV5BM2YxZThhZmEtYzM0Yi00OWYxLWI4NGYtM2Y2ZDNmOGE0ZWQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.6,
         "Director": "S. S. Rajamouli",
         "yearofrelease": 2015,
         "Actor": "Prabhas",
-        "isWishlisted": false
+        "cast": [
+          {
+            "name": "Prabhas",
+            "character": "Baahubali/Shivudu",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Prabhas_at_Baahubali_2_promotions_in_2017.jpg/220px-Prabhas_at_Baahubali_2_promotions_in_2017.jpg"
+          },
+          {
+            "name": "Rana Daggubati",
+            "character": "Bhallaladeva",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rana_Daggubati_2017.jpg/220px-Rana_Daggubati_2017.jpg"
+          },
+          {
+            "name": "Anushka Shetty",
+            "character": "Devasena",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Anushka_Shetty_at_Baahubali_event.jpg/220px-Anushka_Shetty_at_Baahubali_event.jpg"
+          },
+          {
+            "name": "Tamannaah",
+            "character": "Avanthika",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tamannaah_at_AIFA.jpg/220px-Tamannaah_at_AIFA.jpg"
+          },
+          {
+            "name": "Ramya Krishnan",
+            "character": "Sivagami",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ramya_Krishnan.jpg/220px-Ramya_Krishnan.jpg"
+          },
+          {
+            "name": "Sathyaraj",
+            "character": "Kattappa",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sathyaraj.jpg/220px-Sathyaraj.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/VdafjyFK3ko?si=Iahvt6o6bNF5G3TJ&start=3",
+        "spotifyLink": "https://open.spotify.com/album/0QF7Y2XfnR5RKGomLqjOtq",
+        "watchNow": "https://www.netflix.com/in/title/80044555",
+        "ott": "assets/netflix.png",
+        "description": "A young man learns about his royal heritage and battles an oppressive king to reclaim his kingdom."
       },
       {
-        "id": 9,
+        "id": "b9",
         "name": "Bajrangi Bhaijaan",
         "cover": "https://m.media-amazon.com/images/M/MV5BYjc2ZTU4ODAtZGI3ZS00NTIyLTg3OWQtMDRmZjhiZWZkOWMyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
         "rating": 4.5,
         "Director": "Kabir Khan",
         "yearofrelease": 2015,
         "Actor": "Salman Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/4nwAra0mz_Q?si=9CMdJC8Xv_0eqQC9&amp;start=3"
       },
       {
-        "id": 10,
+        "id": "b10",
         "name": "Queen",
         "cover": "https://m.media-amazon.com/images/M/MV5BZWU0ZWFhODYtMWE5NC00YzNiLWJlZTctMjFhODhjNDdmZjFmXkEyXkFqcGc@._V1_.jpg",
         "rating": 4.6,
         "Director": "Vikas Bahl",
         "yearofrelease": 2013,
         "Actor": "Kangana Ranaut",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/KGC6vl3lzf0?si=kBu-P-eSJSGewh80&amp;start=3"
       },
       {
-        "id": 11,
+        "id": "b11",
         "name": "Padmaavat",
         "cover": "https://m.media-amazon.com/images/M/MV5BNjM4MzFhOTItMzNmYy00NTg4LWFjYzItMWY0ZDAxY2NmNTUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.4,
         "Director": "Sanjay Leela Bhansali",
         "yearofrelease": 2018,
         "Actor": "Deepika Padukone",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/X_5_BLt76c0?si=qQkLtlkAEoRnRiQM&amp;controls=0&amp;start=3"
       },
       {
-        "id": 12,
+        "id": "b12",
         "name": "Barfi!",
         "cover": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.5,
         "Director": "Anurag Basu",
         "yearofrelease": 2012,
         "Actor": "Ranbir Kapoor",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/nQ3FYUgSjC8?si=rX3XrQkrtrc-HL1w&amp;controls=0&amp;start=3"
       },
       {
-        "id": 13,
+        "id": "b13",
         "name": "Andhadhun",
         "cover": "https://m.media-amazon.com/images/M/MV5BMjZiYTNkNjUtNzI3MC00YWJmLTljM2QtNTI3MTU3ODYzNWFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.6,
         "Director": "Sriram Raghavan",
         "yearofrelease": 2018,
         "Actor": "Ayushmann Khurrana",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/2iVYI99VGaw?si=08y4LoXUP6Otgvph&amp;controls=0&amp;start=3"
       },
       {
-        "id": 14,
+        "id": "b14",
         "name": "ZNMD",
         "cover": "https://m.media-amazon.com/images/M/MV5BOGIzYzg5NzItNDRkYS00NmIzLTk3NzQtZWYwY2VlZDhiYWQ4XkEyXkFqcGc@._V1_.jpg",
         "rating": 4.5,
         "Director": "Zoya Akhtar",
         "yearofrelease": 2011,
         "Actor": "Hrithik Roshan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/FJrpcDgC3zU?si=CcIT2ZYCW65eXyvm&amp;controls=0&amp;start=3"
       },
       {
-        "id": 15,
+        "id": "b15",
         "name": "Bajirao Mastani",
         "cover": "https://m.media-amazon.com/images/M/MV5BODc0NWZlNWUtMGVhMS00YzJkLTgxODgtOTliZWY4OTJiOGJmXkEyXkFqcGc@._V1_.jpg",
         "rating": 4.4,
         "Director": "Sanjay Leela Bhansali",
         "yearofrelease": 2015,
         "Actor": "Ranveer Singh",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/eHOc-4D7MjY?si=UfxJshroD8GeTWzI&amp;controls=0&amp;start=3"
       },
       {
-        "id": 16,
+        "id": "b16",
         "name": "Don",
         "cover": "https://m.media-amazon.com/images/M/MV5BYjBmOTg2NTgtZTc2Mi00ZWRhLTkzMWQtMDI0YThhZTcyMzYwXkEyXkFqcGc@._V1_.jpg",
         "rating": 4.3,
         "Director": "Farhan Akhtar",
         "yearofrelease": 2006,
         "Actor": "Shah Rukh Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/ccJF7bWOLyY?si=tpQ9tb2X-crtD6Q0&amp;controls=0&amp;start=3"
       },
       {
-        "id": 17,
+        "id": "b17",
         "name": "Tanhaji",
         "cover": "https://m.media-amazon.com/images/M/MV5BYzY1YWM5NjUtNWM4YS00Y2YyLTg5YWQtNGY5MWEzYTFmMDQ5XkEyXkFqcGc@._V1_QL75_UX145_.jpg",
         "rating": 4.5,
         "Director": "Om Raut",
         "yearofrelease": 2020,
         "Actor": "Ajay Devgn",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/cffAGIYTEHU?si=0EsdxGzzlbS5A0XY&amp;controls=0&amp;start=3"
       },
       {
-        "id": 18,
+        "id": "b18",
         "name": "Sultan",
         "cover": "https://m.media-amazon.com/images/M/MV5BY2Y4YWZlYjQtNWI3OC00MmQ0LWE2NGItMTdmZWMyNDEzZDgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.3,
         "Director": "Ali Abbas Zafar",
         "yearofrelease": 2016,
         "Actor": "Salman Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/wPxqcq6Byq0?si=iBgVQoWRvtuJgRwT&amp;controls=0&amp;start=3"
       },
       {
-        "id": 19,
+        "id": "b19",
         "name": "My Name Is Khan",
         "cover": "https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.5,
         "Director": "Karan Johar",
         "yearofrelease": 2010,
         "Actor": "Shah Rukh Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/nqxgYT3TYzY?si=0sdK8y8JEPCu8-vB&amp;controls=0&amp;start=3"
       },
       {
-        "id": 20,
+        "id": "b20",
         "name": "Kal Ho Naa Ho",
         "cover": "https://m.media-amazon.com/images/M/MV5BMDNjZmRmMjEtMDA5NS00ZjIxLWJlYWQtNTIyM2FiZjg4NzM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.4,
         "Director": "Nikkhil Advani",
         "yearofrelease": 2003,
         "Actor": "Shah Rukh Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/tVMAQAsjsOU?si=BREly8x3eGEoLbLs&amp;controls=0&amp;start=3"
       },
       {
-        "id": 21,
+        "id": "b21",
         "name": "Gully Boy",
         "cover": "https://m.media-amazon.com/images/M/MV5BMmI2NDRkYmUtNTllMi00ODFkLTk4MjItYTYyZWUzZWMzMGE4XkEyXkFqcGc@._V1_.jpg",
         "rating": 4.3,
         "Director": "Zoya Akhtar",
         "yearofrelease": 2019,
         "Actor": "Ranveer Singh",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/JfbxcD6biOk?si=rTCHmRk6wJpPYpEE&amp;controls=0&amp;start=3"
       },
       {
-        "id": 22,
+        "id": "b22",
         "name": "Rockstar",
         "cover": "https://m.media-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.5,
         "Director": "Imtiaz Ali",
         "yearofrelease": 2011,
         "Actor": "Ranbir Kapoor",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/bD5FShPZdpw?si=y2zj3_Idjtn2Jj8e&amp;controls=0&amp;start=3"
       },
       {
-        "id": 23,
+        "id": "b23",
         "name": "Lagaan",
         "cover": "https://m.media-amazon.com/images/M/MV5BM2FmODM4OTktOTRjOS00ZTIzLWIzZjAtMDBhOGEzYThkNzMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "rating": 4.7,
         "Director": "Ashutosh Gowariker",
         "yearofrelease": 2001,
         "Actor": "Aamir Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/Nhi4Azs2nEw?si=drgEbS7V-MPZfRd2&amp;controls=0&amp;start=3"
       },
       {
-        "id": 24,
-        "name": "Deewar",
-        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgBrGlEev_9C3jE8q3UjXPnNBipXRkn2XLYQ&s",
-        "rating": 4.6,
-        "Director": "Yash Chopra",
-        "yearofrelease": 1975,
-        "Actor": "Amitabh Bachchan",
-        "isWishlisted": false
-      },
-      {
-        "id": 25,
+        "id": "b24",
         "name": "Kuch Kuch Hota Hai",
         "cover": "https://m.media-amazon.com/images/M/MV5BMmQ0ZjliZTgtMjQ3NC00N2NiLTkxNjktY2VkOTQ2N2QyODNkXkEyXkFqcGc@._V1_.jpg",
         "rating": 4.5,
         "Director": "Karan Johar",
         "yearofrelease": 1998,
         "Actor": "Shah Rukh Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/bKZTnnFU9HA?si=p5rKhWXujtcRSJJD&amp;controls=0&amp;start=3"
       },
       {
-        "id": 26,
+        "id": "b25",
         "name": "Ghajini",
         "cover": "https://m.media-amazon.com/images/M/MV5BMjA4Mjc5OTUwNF5BMl5BanBnXkFtZTcwNDIyMjMyMg@@._V1_.jpg",
         "rating": 4.4,
         "Director": "A.R. Murugadoss",
         "yearofrelease": 2008,
         "Actor": "Aamir Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/O1ctXk1h-Jc?si=ohlB9_iNSSecWsp0&amp;controls=0&amp;start=3"
       },
       {
-        "id": 27,
+        "id": "b26",
         "name": "Rang De Basanti",
         "cover": "https://m.media-amazon.com/images/M/MV5BZGU2NGM3NWYtNzM2OC00NjYxLTgzZWItZGI5MzAzZjkyYjhhXkEyXkFqcGc@._V1_.jpg",
         "rating": 4.7,
         "Director": "Rakeysh Omprakash Mehra",
         "yearofrelease": 2006,
         "Actor": "Aamir Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/QHhnhqxB4E8?si=c8sB-GGvEQ36Agsx&amp;controls=0&amp;start=3"
       },
       {
-        "id": 28,
+        "id": "b27",
         "name": "Swades",
         "cover": "https://m.media-amazon.com/images/M/MV5BMmNjMWExZjgtZmFjOS00NDRmLWE5MDMtZDJmMWM3MzVjZTdjXkEyXkFqcGc@._V1_.jpg",
         "rating": 4.6,
         "Director": "Ashutosh Gowariker",
         "yearofrelease": 2004,
         "Actor": "Shah Rukh Khan",
-        "isWishlisted": false
+        "isWishlisted": false,
+        "trailor_link": "https://www.youtube.com/embed/qGrEjnMQS00?si=m7WOby9n7R_kGxrY&amp;controls=0&amp;start=3"
+      },
+      {
+        "id": "b28",
+        "name": "RRR",
+        "cover": "https://m.media-amazon.com/images/M/MV5BZjNmN2RkODAtYzBhMy00ZjViLTgwY2EtY2FlZTQ0MTlkMmQ1XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.8,
+        "Director": "S. S. Rajamouli",
+        "yearofrelease": 2022,
+        "Actor": "Ram Charan",
+        "cast": [
+          {
+            "name": "Ram Charan",
+            "character": "Raju",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ram_Charan_2022.jpg"
+          },
+          {
+            "name": "N. T. Rama Rao Jr.",
+            "character": "Bheem",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/N._T._Rama_Rao_Jr._2019.jpg"
+          },
+          {
+            "name": "Alia Bhatt",
+            "character": "Sita",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Alia_Bhatt_at_the_promotional_event_of_Udta_Punjab_%28cropped%29.jpg"
+          },
+          {
+            "name": "Ajay Devgn",
+            "character": "Vikram",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ajay_Devgn_2019.jpg"
+          },
+          {
+            "name": "Shriya Saran",
+            "character": "Sarala",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Shriya_Saran_2018.jpg"
+          },
+          {
+            "name": "Samuthirakani",
+            "character": "V. D. Muthukumar",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Samuthirakani_at_the_promotion_event_of_Vikram_Vedha_2017.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "Set in the pre-independence era, this epic action drama tells the story of two revolutionaries fighting against British colonial rule."
+      },
+      {
+        "id": "b29",
+        "name": "Sooryavanshi",
+        "cover": "https://m.media-amazon.com/images/M/MV5BYjJlZDI0ZTYtOGM5My00NzZlLTk0YzgtZjE5YzU1ZTdiZDYwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.5,
+        "Director": "Rohit Shetty",
+        "yearofrelease": 2021,
+        "Actor": "Akshay Kumar",
+        "cast": [
+          {
+            "name": "Akshay Kumar",
+            "character": "Veer Sooryavanshi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Akshay_Kumar_2018.jpg"
+          },
+          {
+            "name": "Katrina Kaif",
+            "character": "Sonal",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Katrina_Kaif_2019.jpg"
+          },
+          {
+            "name": "Ajay Devgn",
+            "character": "DCP Bajirao Singham",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ajay_Devgn_2019.jpg"
+          },
+          {
+            "name": "Ranveer Singh",
+            "character": "DCP Sangram Bhalerao",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ranveer_Singh_in_2019.jpg"
+          },
+          {
+            "name": "Javed Jaffrey",
+            "character": "Sartaj Singh",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Javed_Jaffrey_2015.jpg"
+          },
+          {
+            "name": "Vivan Bhatena",
+            "character": "Nayak",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Vivan_Bhatena.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A cop with a mission to eliminate terrorism in India works alongside other officers to stop a dangerous plot."
+      },
+      {
+        "id": "b30",
+        "name": "Chhapaak",
+        "cover": "https://m.media-amazon.com/images/M/MV5BM2VhYjQ1NzctYzRhNi00MzBhLTkzYjQtNTgxMjk5ZjNlMGM5XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.3,
+        "Director": "Meghna Gulzar",
+        "yearofrelease": 2020,
+        "Actor": "Deepika Padukone",
+        "cast": [
+          {
+            "name": "Deepika Padukone",
+            "character": "Malti",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Deepika_Padukone_2018.jpg"
+          },
+          {
+            "name": "Vikrant Massey",
+            "character": "Amol",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vikrant_Massey_2018.jpg"
+          },
+          {
+            "name": "Madhurjeet Sarghi",
+            "character": "Suman",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Madhurjeet_Sarghi_2018.jpg"
+          },
+          {
+            "name": "Vikram Singh",
+            "character": "Raghav",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vikram_Singh_2019.jpg"
+          },
+          {
+            "name": "Tanvi Azmi",
+            "character": "Savita",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tanvi_Azmi.jpg"
+          },
+          {
+            "name": "Sushil Pandey",
+            "character": "Jagat",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Sushil_Pandey_2018.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The film is based on the life of acid attack survivor Laxmi Agarwal and highlights the importance of fighting for one's rights."
+      },
+      {
+        "id": "b31",
+        "name": "Ludo",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNzViNDQyMmYtZGQyYy00Y2ZmLTg5NjAtY2Y2ZjNmYzM4MTM2XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.4,
+        "Director": "Anurag Basu",
+        "yearofrelease": 2020,
+        "Actor": "Rajkummar Rao",
+        "cast": [
+          {
+            "name": "Rajkummar Rao",
+            "character": "Alok",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rajkummar_Rao_%28cropped%29.jpg"
+          },
+          {
+            "name": "Pankaj Tripathi",
+            "character": "Sattu",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pankaj_Tripathi_2018.jpg"
+          },
+          {
+            "name": "Fatima Sana Shaikh",
+            "character": "Aarti",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fatima_Sana_Shaikh_at_Mumbai_Film_Festival_2019.jpg"
+          },
+          {
+            "name": "Aditya Roy Kapoor",
+            "character": "Aman",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Aditya_Roy_Kapoor_%282019%29.jpg"
+          },
+          {
+            "name": "Sanya Malhotra",
+            "character": "Naina",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sanya_Malhotra.jpg"
+          },
+          {
+            "name": "Bengali Suresh",
+            "character": "Manoj",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bengali_Suresh_2018.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A series of interconnected stories where four characters face challenges and life's twists, with their destinies intertwined like a game of Ludo."
+      },
+      {
+        "id": "b32",
+        "name": "Shershaah",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMGI0NWMxZTgtNzA2Yi00OGY2LWI2M2MtYzgyNTQ1YmJlYjI0XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.6,
+        "Director": "Vishnu Vardhan",
+        "yearofrelease": 2021,
+        "Actor": "Sidharth Malhotra",
+        "cast": [
+          {
+            "name": "Sidharth Malhotra",
+            "character": "Vikram Batra",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sidharth_Malhotra_at_the_promotional_event_of_Marjaavan_%28cropped%29.jpg"
+          },
+          {
+            "name": "Kiara Advani",
+            "character": "Dimple",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kiara_Advani_2021.jpg"
+          },
+          {
+            "name": "Shiv Pandit",
+            "character": "Sandeep",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shiv_Pandit_2018.jpg"
+          },
+          {
+            "name": "Anupam Kher",
+            "character": "Havan Raj",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Anupam_Kher_2019.jpg"
+          },
+          {
+            "name": "Sharat Saxena",
+            "character": "Yashpal",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sharat_Saxena.jpg"
+          },
+          {
+            "name": "Javed Jaffrey",
+            "character": "Zorawar",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Javed_Jaffrey_2015.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The biographical war drama about the life of Captain Vikram Batra, a Kargil War hero who sacrificed his life for the nation."
+      },
+      {
+        "id": "b33",
+        "name": "Mimi",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTg5ZjFlMGQtNzlkNi00NzMwLTg2YjktMjI0NmMwNjc5MzM2XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.4,
+        "Director": "Laxman Utekar",
+        "yearofrelease": 2021,
+        "Actor": "Kriti Sanon",
+        "cast": [
+          {
+            "name": "Kriti Sanon",
+            "character": "Mimi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kriti_Sanon_2019.jpg"
+          },
+          {
+            "name": "Pankaj Tripathi",
+            "character": "Bhanu",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pankaj_Tripathi_2018.jpg"
+          },
+          {
+            "name": "Sai Tamhankar",
+            "character": "Shubhi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sai_Tamhankar_2018.jpg"
+          },
+          {
+            "name": "Aidan Whytock",
+            "character": "John",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Aidan_Whytock_2022.jpg"
+          },
+          {
+            "name": "Mairead Martin",
+            "character": "Ruth",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mairead_Martin.jpg"
+          },
+          {
+            "name": "Zeeshan Ayyub",
+            "character": "Aakash",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Zeeshan_Ayyub_2021.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A young woman agrees to become a surrogate mother for a foreign couple, but things take an unexpected turn."
+      },
+      {
+        "id": "b34",
+        "name": "Laxmii",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMjA2YmQxZTAtNjgxZC00MTgyLWIwNTctMzgwOTQ3Njg5NjUzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.2,
+        "Director": "Raghava Lawrence",
+        "yearofrelease": 2020,
+        "Actor": "Akshay Kumar",
+        "cast": [
+          {
+            "name": "Akshay Kumar",
+            "character": "Asif",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Akshay_Kumar_2018.jpg"
+          },
+          {
+            "name": "Kiara Advani",
+            "character": "Priya",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kiara_Advani_2021.jpg"
+          },
+          {
+            "name": "Sharad Kelkar",
+            "character": "Laxmii",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sharad_Kelkar_2018.jpg"
+          },
+          {
+            "name": "Ayesha Raza",
+            "character": "Asif's mother",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ayesha_Raza_2018.jpg"
+          },
+          {
+            "name": "Rajesh Sharma",
+            "character": "Doctor",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Rajesh_Sharma.jpg"
+          },
+          {
+            "name": "Tusshar Kapoor",
+            "character": "Sudarshan",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tusshar_Kapoor.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A man is possessed by the spirit of a transgender, who seeks revenge."
+      },
+      {
+        "id": "b35",
+        "name": "Chhalaang",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNjQzMmQ3ZDctMTM1YS00ZTg3LWFjYzAtZjZlZTM4NzAxZmNhXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.1,
+        "Director": "Hansal Mehta",
+        "yearofrelease": 2020,
+        "Actor": "Rajkummar Rao",
+        "cast": [
+          {
+            "name": "Rajkummar Rao",
+            "character": "Montu",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rajkummar_Rao_%28cropped%29.jpg"
+          },
+          {
+            "name": "Nushrratt Bharuccha",
+            "character": "Neelima",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nushrat_Bharucha_at_Indian_Film_Festival_of_Melbourne.jpg"
+          },
+          {
+            "name": "Mohammad Zeeshan Ayyub",
+            "character": "Puran",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mohammad_Zeeshan_Ayyub_2019.jpg"
+          },
+          {
+            "name": "Saurabh Shukla",
+            "character": "Sharmaji",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Saurabh_Shukla_at_the_Laurels_Cinema_Awards_2015.jpg"
+          },
+          {
+            "name": "Satish Kaushik",
+            "character": "Tikona",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Satish_Kaushik_2018.jpg"
+          },
+          {
+            "name": "Isha Talwar",
+            "character": "Shivani",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Isha_Talwar.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A physical education teacher in a government school faces a new challenge when his school competes against a rival private school."
+      },
+      {
+        "id": "b36",
+        "name": "The White Tiger",
+        "cover": "https://m.media-amazon.com/images/M/MV5BYzYzMzQ5NzktZTcxYi00NTg3LTgwZTItNjVhZjY5ZTg3MTAwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.5,
+        "Director": "Ramin Bahrani",
+        "yearofrelease": 2021,
+        "Actor": "Adarsh Gourav",
+        "cast": [
+          {
+            "name": "Adarsh Gourav",
+            "character": "Balram Halwai",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Adarsh_Gourav_2020.jpg"
+          },
+          {
+            "name": "Priyanka Chopra",
+            "character": "Pinkie",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Priyanka_Chopra_at_the_2016_Billboard_Music_Awards.jpg"
+          },
+          {
+            "name": "Rajkummar Rao",
+            "character": "Ashok",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rajkummar_Rao_%28cropped%29.jpg"
+          },
+          {
+            "name": "Mahesh Manjrekar",
+            "character": "Babuji",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mahesh_Manjrekar.jpg"
+          },
+          {
+            "name": "Ashok Pathak",
+            "character": "Khadeer",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ashok_Pathak.jpg"
+          },
+          {
+            "name": "Vijay Maurya",
+            "character": "Murli",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vijay_Maurya_2016.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The story of a poor Indian driver who rises to power by killing his employer and transforming his life."
+      },
+      {
+        "id": "b37",
+        "name": "Tumhari Sulu",
+        "cover": "https://m.media-amazon.com/images/M/MV5BM2Y0YTk3MGQtZTg3YS00YjczLWIwMjMtZTg4M2Q2ZDRhZjY0XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.3,
+        "Director": "Suresh Triveni",
+        "yearofrelease": 2020,
+        "Actor": "Vidya Balan",
+        "cast": [
+          {
+            "name": "Vidya Balan",
+            "character": "Sulochana Dubey",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vidya_Balan_at_Filmfare_Awards_2018.jpg"
+          },
+          {
+            "name": "Manav Kaul",
+            "character": "Ashok",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Manav_Kaul_2019.jpg"
+          },
+          {
+            "name": "Neha Dhupia",
+            "character": "Rakhi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Neha_Dhupia_2018.jpg"
+          },
+          {
+            "name": "Irrfan Khan",
+            "character": "Vijay",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Irrfan_Khan_2015.jpg"
+          },
+          {
+            "name": "Rajesh Sharma",
+            "character": "Bappu",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Rajesh_Sharma.jpg"
+          },
+          {
+            "name": "Suresh Triveni",
+            "character": "Nitin",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Suresh_Triveni.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The story of a middle-class housewife who discovers her passion for radio jockeying and navigates the challenges of work and home life."
+      },
+      {
+        "id": "b38",
+        "name": "Gunjan Saxena: The Kargil Girl",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMmQ1NjYwMzYtMzM5Zi00ZTYzLWI4ZDAtNjkxNzE2MmM2YmQyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.2,
+        "Director": "Sharan Sharma",
+        "yearofrelease": 2020,
+        "Actor": "Janvhi Kapoor",
+        "cast": [
+          {
+            "name": "Janvhi Kapoor",
+            "character": "Gunjan Saxena",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Janhvi_Kapoor_2019.jpg"
+          },
+          {
+            "name": "Pankaj Tripathi",
+            "character": "Anup Saxena",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pankaj_Tripathi_2018.jpg"
+          },
+          {
+            "name": "Angad Bedi",
+            "character": "Anshuman Saxena",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Angad_Bedi_2016.jpg"
+          },
+          {
+            "name": "Manav Vij",
+            "character": "Army officer",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Manav_Vij_2018.jpg"
+          },
+          {
+            "name": "Raghubir Yadav",
+            "character": "Military officer",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Raghubir_Yadav.jpg"
+          },
+          {
+            "name": "Sharan Sharma",
+            "character": "Director",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sharan_Sharma.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The true story of Gunjan Saxena, one of India's first female air force pilots, who served during the Kargil War."
+      },
+      {
+        "id": "b39",
+        "name": "Bhoot: Part One – The Haunted Ship",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMzRjNjRhNjUtMTM1Yy00MGEwLTlmZWItYTkwMDYzMDlmM2UwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 3.9,
+        "Director": "Bhanu Pratap Singh",
+        "yearofrelease": 2020,
+        "Actor": "Vicky Kaushal",
+        "cast": [
+          {
+            "name": "Vicky Kaushal",
+            "character": "Prithvi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Vicky_Kaushal_at_the_promotion_of_2019_Film_Urdi.jpg"
+          },
+          {
+            "name": "Bhumi Pednekar",
+            "character": "Shivani",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bhumi_Pednekar_2017.jpg"
+          },
+          {
+            "name": "Ashutosh Rana",
+            "character": "Dr. Suresh",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ashutosh_Rana.jpg"
+          },
+          {
+            "name": "Meiyang Chang",
+            "character": "Viraf",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Meiyang_Chang_2017.jpg"
+          },
+          {
+            "name": "Nidhi Singh",
+            "character": "Neelam",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nidhi_Singh_2017.jpg"
+          },
+          {
+            "name": "Sushant Singh",
+            "character": "Raghav",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sushant_Singh_in_2015.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A ship washed ashore with a dark secret, a haunted past, and a terrifying entity lurking inside."
+      },
+      {
+        "id": "b40",
+        "name": "Street Dancer 3D",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNmNkZGM5MjktNTRmZC00M2M1LTg2ZTgtYzQwOGJhNTBiZWZmXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 3.8,
+        "Director": "Remo D'Souza",
+        "yearofrelease": 2020,
+        "Actor": "Varun Dhawan",
+        "cast": [
+          {
+            "name": "Varun Dhawan",
+            "character": "Suresh",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Varun_Dhawan_at_IIFA_2019.jpg"
+          },
+          {
+            "name": "Shraddha Kapoor",
+            "character": "Inayat",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Shraddha_Kapoor_at_Indian_Film_Festival_of_Melbourne_2019.jpg"
+          },
+          {
+            "name": "Prabhu Deva",
+            "character": "Police Officer",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Prabhu_Deva_in_2018.jpg"
+          },
+          {
+            "name": "Nora Fatehi",
+            "character": "Madhuri",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nora_Fatehi_2019.jpg"
+          },
+          {
+            "name": "Raghav Juyal",
+            "character": "D",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Raghav_Juyal_2018.jpg"
+          },
+          {
+            "name": "Punit J. Pathak",
+            "character": "Omi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Punit_Pathak.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A battle between Indian and Pakistani street dancers, which leads to new friendships and overcoming challenges."
+      },
+      {
+        "id": "b41",
+        "name": "Bharat",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTcwZDUyMjMtZGFiOS00Mjg0LTg2ZDQtNzRmMjA4ZWIwZjkwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.0,
+        "Director": "Ali Abbas Zafar",
+        "yearofrelease": 2019,
+        "Actor": "Salman Khan",
+        "cast": [
+          {
+            "name": "Salman Khan",
+            "character": "Bharat",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Salman_Khan_%28cropped%29.jpg"
+          },
+          {
+            "name": "Katrina Kaif",
+            "character": "Kumud Raina",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Katrina_Kaif_2019.jpg"
+          },
+          {
+            "name": "Disha Patani",
+            "character": "Radha",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Disha_Patani_at_the_promotion_of_Bharat.jpg"
+          },
+          {
+            "name": "Jackie Shroff",
+            "character": "Jagatnarayan",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Jackie_Shroff_2017.jpg"
+          },
+          {
+            "name": "Tabu",
+            "character": "Jamini",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Tabu_at_2018_Bollywood_celebration.jpg"
+          },
+          {
+            "name": "Sunil Grover",
+            "character": "Mausi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sunil_Grover_2017.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The life journey of Bharat, from his childhood to the age of 70, and how he becomes a hero for his country."
+      },
+      {
+        "id": "b42",
+        "name": "Good Newwz",
+        "cover": "https://m.media-amazon.com/images/M/MV5BZTM5Mzg5NjctNzYyYy00MTRjLWEzZTMtNTMwNDAwYjMwZjNlXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.3,
+        "Director": "Raj Mehta",
+        "yearofrelease": 2019,
+        "Actor": "Akshay Kumar",
+        "cast": [
+          {
+            "name": "Akshay Kumar",
+            "character": "Varun Batra",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Akshay_Kumar_2018.jpg"
+          },
+          {
+            "name": "Kareena Kapoor",
+            "character": "Deepti Batra",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kareena_Kapoor_Khan_2019.jpg"
+          },
+          {
+            "name": "Diljit Dosanjh",
+            "character": "Honey Batra",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Diljit_Dosanjh_2015.jpg"
+          },
+          {
+            "name": "Kiara Advani",
+            "character": "Monica",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kiara_Advani_2021.jpg"
+          },
+          {
+            "name": "Tisca Chopra",
+            "character": "Nurse",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tisca_Chopra.jpg"
+          },
+          {
+            "name": "Anjana Sukhani",
+            "character": "Pooja",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Anjana_Sukhani.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "Two couples with the same surnames struggle with the complications that arise due to IVF treatment."
+      },
+      {
+        "id": "b43",
+        "name": "Chhapaak",
+        "cover": "https://m.media-amazon.com/images/M/MV5BYjBhYjIzOGQtMjBhNS00ZGEzLWI0MTQtY2JkM2IzMDhmZWYyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.4,
+        "Director": "Meghna Gulzar",
+        "yearofrelease": 2020,
+        "Actor": "Deepika Padukone",
+        "cast": [
+          {
+            "name": "Deepika Padukone",
+            "character": "Malti",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Deepika_Padukone_2018.jpg"
+          },
+          {
+            "name": "Vikrant Massey",
+            "character": "Amol",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Vikrant_Massey_2017.jpg"
+          },
+          {
+            "name": "Madhurjeet Sarghi",
+            "character": "Dr. Meenal",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Madhurjeet_Sarghi.jpg"
+          },
+          {
+            "name": "Ankur Vikal",
+            "character": "Raghav",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ankur_Vikal.jpg"
+          },
+          {
+            "name": "Vikram Singh",
+            "character": "Vikram",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vikram_Singh_Actor_2016.jpg"
+          },
+          {
+            "name": "Tanvi Azmi",
+            "character": "Malti's mother",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tanvi_Azmi_at_the_2016_International_Film_Festival.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A powerful and emotional story of an acid attack survivor and her journey towards justice and empowerment."
+      },
+      {
+        "id": "b44",
+        "name": "Tumbbad",
+        "cover": "https://m.media-amazon.com/images/M/MV5BZGM2ZTdiZTItMDE5My00MzY4LWI2YjQtY2M3YzI1ZjM0YzRlXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.5,
+        "Director": "Rahi Anil Barve",
+        "yearofrelease": 2018,
+        "Actor": "Sohum Shah",
+        "cast": [
+          {
+            "name": "Sohum Shah",
+            "character": "Sardar",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sohum_Shah_at_the_promotions_of_Tumbbad.jpg"
+          },
+          {
+            "name": "Jyoti Malshe",
+            "character": "Aaji",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jyoti_Malshe_in_Tumbbad.jpg"
+          },
+          {
+            "name": "Haji Sayeed",
+            "character": "Haji",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Haji_Sayeed_at_the_promotion_of_Tumbbad.jpg"
+          },
+          {
+            "name": "Mohammad Samad",
+            "character": "Young Sardar",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mohammad_Samad_in_Tumbbad.jpg"
+          },
+          {
+            "name": "Madhuri Nene",
+            "character": "Aaji",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Madhuri_Nene_in_Tumbbad.jpg"
+          },
+          {
+            "name": "Nitin Soni",
+            "character": "Sardar's Father",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nitin_Soni_in_Tumbbad.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A mysterious, eerie horror-thriller that follows a man’s obsessive search for a hidden treasure in a cursed village."
+      },
+      {
+        "id": "b45",
+        "name": "Ludo",
+        "cover": "https://m.media-amazon.com/images/M/MV5BZTdhYzM0YmUtOTAzYS00ZDdiLTg0NzgtMzc5NjYzY2RkZjNiXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.3,
+        "Director": "Anurag Basu",
+        "yearofrelease": 2020,
+        "Actor": "Abhishek Bachchan",
+        "cast": [
+          {
+            "name": "Abhishek Bachchan",
+            "character": "Aakash",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Abhishek_Bachchan_at_promotion_of_Ludo.jpg"
+          },
+          {
+            "name": "Aditya Roy Kapur",
+            "character": "Alok",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Aditya_Roy_Kapur_at_the_promotion_of_Ludo.jpg"
+          },
+          {
+            "name": "Sanya Malhotra",
+            "character": "Shruti",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sanya_Malhotra_at_promotion_of_Ludo.jpg"
+          },
+          {
+            "name": "Rajkummar Rao",
+            "character": "Raghav",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rajkummar_Rao_at_the_promotion_of_Ludo.jpg"
+          },
+          {
+            "name": "Pankaj Tripathi",
+            "character": "Raghav",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pankaj_Tripathi.jpg"
+          },
+          {
+            "name": "Nawab Shah",
+            "character": "Police Inspector",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nawab_Shah.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "An intertwining narrative that showcases multiple characters and their perspectives on love, fate, and destiny."
+      },
+      {
+        "id": "b46",
+        "name": "Dil Bechara",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTZkZTgxMjQtOTg0Yy00ZDkwLTgzYjItYjVjMTE3MjhlYTkxXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.7,
+        "Director": "Mukesh Chhabra",
+        "yearofrelease": 2020,
+        "Actor": "Sushant Singh Rajput",
+        "cast": [
+          {
+            "name": "Sushant Singh Rajput",
+            "character": "Manny",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sushant_Singh_Rajput_2016.jpg"
+          },
+          {
+            "name": "Sanjana Sanghi",
+            "character": "Kizie",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sanjana_Sanghi.jpg"
+          },
+          {
+            "name": "Sahil Vaid",
+            "character": "Jagdeep",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sahil_Vaid.jpg"
+          },
+          {
+            "name": "Swastika Mukherjee",
+            "character": "Kizie's Mother",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Swastika_Mukherjee_2016.jpg"
+          },
+          {
+            "name": "Subbalakshmi",
+            "character": "Kizie's Aunt",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Subbalakshmi.jpg"
+          },
+          {
+            "name": "Sushil Pandey",
+            "character": "Father",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sushil_Pandey.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A story about love, life, and loss between a terminally ill girl and a boy who shares her love for life and adventure."
+      },
+      {
+        "id": "b47",
+        "name": "Chhichhore",
+        "cover": "https://m.media-amazon.com/images/M/MV5BZDg3ZTgzZWMtNTc1Yi00ZmU0LTk3NjAtZmZkNzNmZjJlM2U3XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.5,
+        "Director": "Nitesh Tiwari",
+        "yearofrelease": 2019,
+        "Actor": "Sushant Singh Rajput",
+        "cast": [
+          {
+            "name": "Sushant Singh Rajput",
+            "character": "Anni",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sushant_Singh_Rajput_2016.jpg"
+          },
+          {
+            "name": "Shraddha Kapoor",
+            "character": "Sonia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Shraddha_Kapoor_at_Indian_Film_Festival_of_Melbourne_2019.jpg"
+          },
+          {
+            "name": "Varun Sharma",
+            "character": "Choocha",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Varun_Sharma_at_the_promotion_of_Chhichhore.jpg"
+          },
+          {
+            "name": "Naveen Polishetty",
+            "character": "Sandeep",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Naveen_Polishetty.jpg"
+          },
+          {
+            "name": "Tahir Raj Bhasin",
+            "character": "Vikram",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tahir_Raj_Bhasin.jpg"
+          },
+          {
+            "name": "Raghav Juyal",
+            "character": "Sandeep's Friend",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Raghav_Juyal_2018.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A story of friendship, dreams, and growing up. A tale of how old college friends reunite to revisit their golden years."
+      },
+      {
+        "id": "b48",
+        "name": "Shershaah",
+        "cover": "https://m.media-amazon.com/images/M/MV5BYjNmYjZlYzItMjk3Zi00MjkzLWIxMzYtNTNjMjExOGJjZTgyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.6,
+        "Director": "Vishnu Varadhan",
+        "yearofrelease": 2021,
+        "Actor": "Sidharth Malhotra",
+        "cast": [
+          {
+            "name": "Sidharth Malhotra",
+            "character": "Vikram Batra",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sidharth_Malhotra_2019.jpg"
+          },
+          {
+            "name": "Kiara Advani",
+            "character": "Dimple",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kiara_Advani_at_the_promotions_of_Laxmii.jpg"
+          },
+          {
+            "name": "Shiv Panditt",
+            "character": "Captain",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Shiv_Panditt.jpg"
+          },
+          {
+            "name": "Javed Jaffrey",
+            "character": "Major",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Javed_Jaffrey_2015.jpg"
+          },
+          {
+            "name": "Danish Husain",
+            "character": "Soldier",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Danish_Husain_2015.jpg"
+          },
+          {
+            "name": "Raj Arjun",
+            "character": "Soldier",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Raj_Arjun.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The story of Captain Vikram Batra, a soldier who made the ultimate sacrifice during the Kargil War."
+      },
+      {
+        "id": "b49",
+        "name": "Gully Boy",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNzEyMzNjZDMtNmMwMi00NmM1LWI5ZWUtM2QzNjczNTE2MzU5XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.4,
+        "Director": "Zoya Akhtar",
+        "yearofrelease": 2019,
+        "Actor": "Ranveer Singh",
+        "cast": [
+          {
+            "name": "Ranveer Singh",
+            "character": "Murad",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ranveer_Singh_2017.jpg"
+          },
+          {
+            "name": "Alia Bhatt",
+            "character": "Safeena",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alia_Bhatt_at_Filmfare_Awards_2018.jpg"
+          },
+          {
+            "name": "Siddhant Chaturvedi",
+            "character": "MC Sher",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Siddhant_Chaturvedi_2018.jpg"
+          },
+          {
+            "name": "Vijay Varma",
+            "character": "Moeen",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vijay_Varma.jpg"
+          },
+          {
+            "name": "Kalki Koechlin",
+            "character": "Sky",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kalki_Koechlin.jpg"
+          },
+          {
+            "name": "Vijay Raaz",
+            "character": "Murad's Father",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Vijay_Raaz.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A young man from the slums of Mumbai rises to fame through his rap music, overcoming adversity and social obstacles."
+      },
+      {
+        "id": "b50",
+        "name": "Badhaai Do",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTcxZmI3OGUtMGE3ZC00NzEyLTk3OTctYzk1ZTg0YjYzMTNkXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "rating": 4.2,
+        "Director": "Harshavardhan Kulkarni",
+        "yearofrelease": 2022,
+        "Actor": "Rajkummar Rao",
+        "cast": [
+          {
+            "name": "Rajkummar Rao",
+            "character": "Shardul",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Rajkummar_Rao_2016.jpg"
+          },
+          {
+            "name": "Bhumi Pednekar",
+            "character": "Suman",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bhumi_Pednekar_2019.jpg"
+          },
+          {
+            "name": "Seema Pahwa",
+            "character": "Shardul's Mother",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Seema_Pahwa.jpg"
+          },
+          {
+            "name": "Nitesh Pandey",
+            "character": "Father",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nitesh_Pandey_2018.jpg"
+          },
+          {
+            "name": "Shashi Bhushan",
+            "character": "Shiv",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Shashi_Bhushan_2021.jpg"
+          },
+          {
+            "name": "Chum Darang",
+            "character": "Suman's Friend",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chum_Darang.jpg"
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A comedy-drama about a marriage between two individuals with hidden secrets, navigating societal pressures and family expectations."
       }
     ]
   },
@@ -298,7 +1681,7 @@
         "Director": "Frank Darabont",
         "year of release": 1994,
         "Actor": "Tim Robbins",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": "h2",
@@ -308,7 +1691,7 @@
         "Director": "Francis Ford Coppola",
         "year of release": 1972,
         "Actor": "Marlon Brando",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 3,
@@ -318,7 +1701,7 @@
         "Director": "Christopher Nolan",
         "year of release": 2008,
         "Actor": "Christian Bale",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 4,
@@ -328,7 +1711,7 @@
         "Director": "Christopher Nolan",
         "year of release": 2010,
         "Actor": "Leonardo DiCaprio",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 5,
@@ -338,7 +1721,7 @@
         "Director": "David Fincher",
         "year of release": 1999,
         "Actor": "Brad Pitt",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 6,
@@ -348,7 +1731,7 @@
         "Director": "Robert Zemeckis",
         "year of release": 1994,
         "Actor": "Tom Hanks",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 7,
@@ -358,7 +1741,7 @@
         "Director": "Quentin Tarantino",
         "year of release": 1994,
         "Actor": "John Travolta",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 8,
@@ -368,7 +1751,7 @@
         "Director": "Steven Spielberg",
         "year of release": 1993,
         "Actor": "Liam Neeson",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 9,
@@ -378,7 +1761,7 @@
         "Director": "Lana Wachowski, Lilly Wachowski",
         "year of release": 1999,
         "Actor": "Keanu Reeves",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 10,
@@ -388,7 +1771,7 @@
         "Director": "Christopher Nolan",
         "year of release": 2014,
         "Actor": "Matthew McConaughey",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 11,
@@ -398,7 +1781,7 @@
         "Director": "Ridley Scott",
         "year of release": 2000,
         "Actor": "Russell Crowe",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 12,
@@ -408,7 +1791,7 @@
         "Director": "Jonathan Demme",
         "year of release": 1991,
         "Actor": "Anthony Hopkins",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 13,
@@ -418,7 +1801,7 @@
         "Director": "Peter Jackson",
         "year of release": 2001,
         "Actor": "Elijah Wood",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 14,
@@ -428,7 +1811,7 @@
         "Director": "Steven Spielberg",
         "year of release": 1998,
         "Actor": "Tom Hanks",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 15,
@@ -438,7 +1821,7 @@
         "Director": "Frank Darabont",
         "year of release": 1999,
         "Actor": "Tom Hanks",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 16,
@@ -448,7 +1831,7 @@
         "Director": "Joss Whedon",
         "year of release": 2012,
         "Actor": "Robert Downey Jr.",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 17,
@@ -458,7 +1841,7 @@
         "Director": "Todd Phillips",
         "year of release": 2019,
         "Actor": "Joaquin Phoenix",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 18,
@@ -468,7 +1851,7 @@
         "Director": "Quentin Tarantino",
         "year of release": 2009,
         "Actor": "Brad Pitt",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 19,
@@ -478,7 +1861,7 @@
         "Director": "James Cameron",
         "year of release": 1997,
         "Actor": "Leonardo DiCaprio",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 20,
@@ -488,7 +1871,7 @@
         "Director": "James Cameron",
         "year of release": 1997,
         "Actor": "Leonardo DiCaprio",
-        "isWishlisted":false
+        "isWishlisted": false
       },
       {
         "id": 21,
@@ -498,7 +1881,899 @@
         "Director": "Martin Scorsese",
         "year of release": 1990,
         "Actor": "Ray Liotta",
-        "isWishlisted":false
+        "isWishlisted": false
+      }
+    ]
+  },
+  {
+    "category": "Marathi",
+    "movieList": [
+      {
+        "id": "m1",
+        "name": "Sairat",
+        "cover": null,
+        "rating": 4.8,
+        "Director": "Nagraj Manjule",
+        "yearofrelease": 2016,
+        "Actor": "Akash Thosar",
+        "cast": [
+          { "name": "Akash Thosar", "character": "Parshya", "image": null },
+          { "name": "Rinku Rajguru", "character": "Archie", "image": null },
+          { "name": "Tanaji Galgunde", "character": "Langdya", "image": null },
+          { "name": "Arbaz Shaikh", "character": "Salya", "image": null },
+          {
+            "name": "Chhaya Kadam",
+            "character": "Parshya's Mother",
+            "image": null
+          },
+          {
+            "name": "Bharat Ganeshpure",
+            "character": "Politician",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A love story between two young individuals from different castes, challenging societal norms."
+      },
+      {
+        "id": "m2",
+        "name": "Natsamrat",
+        "cover": null,
+        "rating": 4.9,
+        "Director": "Mahesh Manjrekar",
+        "yearofrelease": 2016,
+        "Actor": "Nana Patekar",
+        "cast": [
+          {
+            "name": "Nana Patekar",
+            "character": "Ganpatrao Belwalkar",
+            "image": null
+          },
+          { "name": "Medha Manjrekar", "character": "Kaveri", "image": null },
+          { "name": "Vikram Gokhale", "character": "Friend", "image": null },
+          {
+            "name": "Mrinal Kulkarni",
+            "character": "Ganpatrao's Daughter",
+            "image": null
+          },
+          { "name": "Ajit Parab", "character": "Young Actor", "image": null },
+          { "name": "Neha Pendse", "character": "Young Actress", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A retired theater actor grapples with life’s challenges and relationships after stepping off the stage."
+      },
+      {
+        "id": "m3",
+        "name": "Harishchandrachi Factory",
+        "cover": null,
+        "rating": 4.7,
+        "Director": "Paresh Mokashi",
+        "yearofrelease": 2009,
+        "Actor": "Nandu Madhav",
+        "cast": [
+          {
+            "name": "Nandu Madhav",
+            "character": "Dadasaheb Phalke",
+            "image": null
+          },
+          {
+            "name": "Vibhawari Deshpande",
+            "character": "Saraswati Phalke",
+            "image": null
+          },
+          { "name": "Atharva Karve", "character": "Rahu", "image": null },
+          { "name": "Mohit Goel", "character": "Daughter", "image": null },
+          { "name": "Ramesh Bhatkar", "character": "Investor", "image": null },
+          { "name": "Amruta Subhash", "character": "Supporter", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A historical drama that chronicles the journey of Dadasaheb Phalke as he creates India’s first film."
+      },
+      {
+        "id": "m4",
+        "name": "Court",
+        "cover": null,
+        "rating": 4.6,
+        "Director": "Chaitanya Tamhane",
+        "yearofrelease": 2015,
+        "Actor": "Vivek Gomber",
+        "cast": [
+          { "name": "Vivek Gomber", "character": "Advocate", "image": null },
+          {
+            "name": "Geetanjali Kulkarni",
+            "character": "Public Prosecutor",
+            "image": null
+          },
+          {
+            "name": "Vira Sathidar",
+            "character": "Narayan Kamble",
+            "image": null
+          },
+          { "name": "Pradeep Joshi", "character": "Judge", "image": null },
+          { "name": "Usha Bane", "character": "Witness", "image": null },
+          { "name": "Shirish Pawar", "character": "Clerk", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A courtroom drama exploring the intricacies of justice and societal hypocrisy."
+      },
+      {
+        "id": "m5",
+        "name": "Fandry",
+        "cover": null,
+        "rating": 4.7,
+        "Director": "Nagraj Manjule",
+        "yearofrelease": 2014,
+        "Actor": "Somnath Avghade",
+        "cast": [
+          { "name": "Somnath Avghade", "character": "Jabya", "image": null },
+          { "name": "Rajeshwari Kharat", "character": "Shalu", "image": null },
+          { "name": "Kishor Kadam", "character": "Father", "image": null },
+          { "name": "Chhaya Kadam", "character": "Mother", "image": null },
+          { "name": "Nagraj Manjule", "character": "Teacher", "image": null },
+          { "name": "Suraj Pawar", "character": "Friend", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A poignant tale of love and social inequality set in rural India."
+      },
+      {
+        "id": "m6",
+        "name": "Timepass",
+        "cover": null,
+        "rating": 4.5,
+        "Director": "Ravi Jadhav",
+        "yearofrelease": 2014,
+        "Actor": "Prathamesh Parab",
+        "cast": [
+          { "name": "Prathamesh Parab", "character": "Dagadu", "image": null },
+          {
+            "name": "Ketaki Mategaonkar",
+            "character": "Prajakta",
+            "image": null
+          },
+          {
+            "name": "Vaibhav Mangle",
+            "character": "Prajakta's Father",
+            "image": null
+          },
+          {
+            "name": "Meena Naik",
+            "character": "Dagadu's Mother",
+            "image": null
+          },
+          {
+            "name": "Bhalchandra Kadam",
+            "character": "Dagadu's Uncle",
+            "image": null
+          },
+          { "name": "Urmila Kanitkar", "character": "Teacher", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A light-hearted love story between a mischievous boy and a disciplined girl."
+      },
+      {
+        "id": "m7",
+        "name": "Lai Bhaari",
+        "cover": null,
+        "rating": 4.6,
+        "Director": "Nishikant Kamat",
+        "yearofrelease": 2014,
+        "Actor": "Riteish Deshmukh",
+        "cast": [
+          { "name": "Riteish Deshmukh", "character": "Mauli", "image": null },
+          { "name": "Radhika Apte", "character": "Sumitra", "image": null },
+          {
+            "name": "Sharad Kelkar",
+            "character": "Opposing Politician",
+            "image": null
+          },
+          { "name": "Tanvi Azmi", "character": "Mother", "image": null },
+          { "name": "Aditi Pohankar", "character": "Friend", "image": null },
+          { "name": "Uday Tikekar", "character": "Supporter", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A gripping tale of vengeance and family values set in rural Maharashtra."
+      },
+      {
+        "id": "m8",
+        "name": "Deool",
+        "cover": null,
+        "rating": 4.7,
+        "Director": "Umesh Kulkarni",
+        "yearofrelease": 2011,
+        "Actor": "Nana Patekar",
+        "cast": [
+          { "name": "Nana Patekar", "character": "Keshav", "image": null },
+          { "name": "Dilip Prabhavalkar", "character": "Anna", "image": null },
+          { "name": "Sonali Kulkarni", "character": "Doctor", "image": null },
+          {
+            "name": "Girish Kulkarni",
+            "character": "Rural Resident",
+            "image": null
+          },
+          { "name": "Jyoti Subhash", "character": "Old Woman", "image": null },
+          { "name": "Kishor Kadam", "character": "Farmer", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A thought-provoking movie about faith, commercialization, and rural life."
+      },
+      {
+        "id": "m9",
+        "name": "Jogwa",
+        "cover": null,
+        "rating": 4.8,
+        "Director": "Rajiv Patil",
+        "yearofrelease": 2009,
+        "Actor": "Upendra Limaye",
+        "cast": [
+          { "name": "Upendra Limaye", "character": "Tayappa", "image": null },
+          { "name": "Mukta Barve", "character": "Sulabha", "image": null },
+          { "name": "Vinay Apte", "character": "Villager", "image": null },
+          { "name": "Sharvani Pillai", "character": "Friend", "image": null },
+          { "name": "Priya Berde", "character": "Mother", "image": null },
+          { "name": "Amol Gupte", "character": "Leader", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A socially relevant film depicting the plight of Devdasis in rural Maharashtra."
+      },
+      {
+        "id": "m10",
+        "name": "Katyar Kaljat Ghusali",
+        "cover": null,
+        "rating": 4.9,
+        "Director": "Subodh Bhave",
+        "yearofrelease": 2015,
+        "Actor": "Sachin Pilgaonkar",
+        "cast": [
+          {
+            "name": "Sachin Pilgaonkar",
+            "character": "Panditji",
+            "image": null
+          },
+          { "name": "Subodh Bhave", "character": "Sadashiv", "image": null },
+          {
+            "name": "Shankar Mahadevan",
+            "character": "Khan Saheb",
+            "image": null
+          },
+          { "name": "Amruta Khanvilkar", "character": "Wife", "image": null },
+          { "name": "Pushkar Shrotri", "character": "Friend", "image": null },
+          { "name": "Mohan Joshi", "character": "Patriarch", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A musical drama exploring classical music and rivalry between two gharanas."
+      },
+
+      {
+        "id": "m11",
+        "name": "Fandry",
+        "cover": null,
+        "rating": 4.6,
+        "Director": "Nagraj Manjule",
+        "yearofrelease": 2013,
+        "Actor": "Somnath Awghade",
+        "cast": [
+          { "name": "Somnath Awghade", "character": "Jambhu", "image": null },
+          { "name": "Rajeshwari Kharat", "character": "Shalu", "image": null },
+          { "name": "Suraj Pawar", "character": "Friend", "image": null },
+          { "name": "Nagraj Manjule", "character": "Villager", "image": null },
+          { "name": "Kishore Kadam", "character": "Father", "image": null },
+          { "name": "Chhaya Kadam", "character": "Mother", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A heart-wrenching story of love and caste discrimination in rural Maharashtra."
+      },
+      {
+        "id": "m12",
+        "name": "Elizabeth Ekadashi",
+        "cover": null,
+        "rating": 4.5,
+        "Director": "Paresh Mokashi",
+        "yearofrelease": 2014,
+        "Actor": "Shrirang Mahajan",
+        "cast": [
+          {
+            "name": "Shrirang Mahajan",
+            "character": "Dnyanesh",
+            "image": null
+          },
+          {
+            "name": "Sayali Bhandarkavathekar",
+            "character": "Mukta",
+            "image": null
+          },
+          { "name": "Pushkar Lonarkar", "character": "Friend", "image": null },
+          { "name": "Nandita Dhuri", "character": "Mother", "image": null },
+          { "name": "Vanmala Kharat", "character": "Neighbor", "image": null },
+          { "name": "Chinmay Udgirkar", "character": "Teacher", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A tale of a young boy's determination and his bond with a cycle named Elizabeth."
+      },
+      {
+        "id": "m13",
+        "name": "Natarang",
+        "cover": null,
+        "rating": 4.8,
+        "Director": "Ravi Jadhav",
+        "yearofrelease": 2010,
+        "Actor": "Atul Kulkarni",
+        "cast": [
+          { "name": "Atul Kulkarni", "character": "Guna", "image": null },
+          { "name": "Sonalee Kulkarni", "character": "Nayana", "image": null },
+          {
+            "name": "Vibhawari Deshpande",
+            "character": "Friend",
+            "image": null
+          },
+          {
+            "name": "Kishor Kadam",
+            "character": "Village Elder",
+            "image": null
+          },
+          { "name": "Amruta Subhash", "character": "Supporter", "image": null },
+          { "name": "Ajay Purkar", "character": "Antagonist", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A moving story about the transformation of a simple man into an artist."
+      },
+      {
+        "id": "m14",
+        "name": "Sairat",
+        "cover": null,
+        "rating": 4.9,
+        "Director": "Nagraj Manjule",
+        "yearofrelease": 2016,
+        "Actor": "Akash Thosar",
+        "cast": [
+          { "name": "Akash Thosar", "character": "Parshya", "image": null },
+          { "name": "Rinku Rajguru", "character": "Archie", "image": null },
+          { "name": "Tanaji Galgunde", "character": "Langdya", "image": null },
+          { "name": "Arbaz Shaikh", "character": "Salim", "image": null },
+          {
+            "name": "Chhaya Kadam",
+            "character": "Parshya's Mother",
+            "image": null
+          },
+          {
+            "name": "Suresh Vishwakarma",
+            "character": "Archie's Father",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A timeless love story that explores caste issues in rural India."
+      },
+      {
+        "id": "m15",
+        "name": "Shwaas",
+        "cover": null,
+        "rating": 4.7,
+        "Director": "Sandeep Sawant",
+        "yearofrelease": 2004,
+        "Actor": "Arun Nalawade",
+        "cast": [
+          {
+            "name": "Arun Nalawade",
+            "character": "Grandfather",
+            "image": null
+          },
+          { "name": "Ashwin Chitale", "character": "Parshya", "image": null },
+          { "name": "Sandeep Kulkarni", "character": "Doctor", "image": null },
+          { "name": "Amruta Subhash", "character": "Nurse", "image": null },
+          {
+            "name": "Vibhawari Deshpande",
+            "character": "Helper",
+            "image": null
+          },
+          { "name": "Kishore Kadam", "character": "Villager", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A poignant story of a grandfather's efforts to fulfill his grandson's last wish."
+      },
+      {
+        "id": "m16",
+        "name": "Lai Bhaari",
+        "cover": null,
+        "rating": 4.5,
+        "Director": "Nishikant Kamat",
+        "yearofrelease": 2014,
+        "Actor": "Riteish Deshmukh",
+        "cast": [
+          { "name": "Riteish Deshmukh", "character": "Mauli", "image": null },
+          { "name": "Radhika Apte", "character": "Vithala", "image": null },
+          { "name": "Tanvi Azmi", "character": "Mother", "image": null },
+          { "name": "Sharad Kelkar", "character": "Antagonist", "image": null },
+          { "name": "Uday Tikekar", "character": "Father", "image": null },
+          {
+            "name": "Genelia Deshmukh",
+            "character": "Special Appearance",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A story of family honor and devotion to Lord Vithoba."
+      },
+      {
+        "id": "m17",
+        "name": "Balak Palak",
+        "cover": null,
+        "rating": 4.3,
+        "Director": "Ravi Jadhav",
+        "yearofrelease": 2013,
+        "Actor": "Madan Deodhar",
+        "cast": [
+          { "name": "Madan Deodhar", "character": "Avya", "image": null },
+          {
+            "name": "Bhagyashree Shankpal",
+            "character": "Dolly",
+            "image": null
+          },
+          { "name": "Prathamesh Parab", "character": "Chiu", "image": null },
+          {
+            "name": "Ketaki Mategaonkar",
+            "character": "Special Appearance",
+            "image": null
+          },
+          {
+            "name": "Shashwati Pimplikar",
+            "character": "Teacher",
+            "image": null
+          },
+          { "name": "Subodh Bhave", "character": "Father", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A humorous yet educational tale about growing up and understanding relationships."
+      },
+      {
+        "id": "m18",
+        "name": "Harishchandrachi Factory",
+        "cover": null,
+        "rating": 4.8,
+        "Director": "Paresh Mokashi",
+        "yearofrelease": 2009,
+        "Actor": "Nandu Madhav",
+        "cast": [
+          {
+            "name": "Nandu Madhav",
+            "character": "Dadasaheb Phalke",
+            "image": null
+          },
+          {
+            "name": "Vibhawari Deshpande",
+            "character": "Mrs. Phalke",
+            "image": null
+          },
+          { "name": "Atharva Karve", "character": "Son", "image": null },
+          { "name": "Mohit Gokhale", "character": "Assistant", "image": null },
+          { "name": "Dilip Joglekar", "character": "Investor", "image": null },
+          {
+            "name": "Ambarish Deshpande",
+            "character": "Villager",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "The journey of India's first feature film, Harishchandra."
+      },
+      {
+        "id": "m19",
+        "name": "Ventilator",
+        "cover": null,
+        "rating": 4.4,
+        "Director": "Rajesh Mapuskar",
+        "yearofrelease": 2016,
+        "Actor": "Ashutosh Gowariker",
+        "cast": [
+          {
+            "name": "Ashutosh Gowariker",
+            "character": "Prabhakar",
+            "image": null
+          },
+          {
+            "name": "Priyanka Chopra",
+            "character": "Special Appearance",
+            "image": null
+          },
+          { "name": "Sukanya Kulkarni", "character": "Sister", "image": null },
+          { "name": "Jitendra Joshi", "character": "Cousin", "image": null },
+          { "name": "Sulabha Arya", "character": "Mother", "image": null },
+          {
+            "name": "Nikhil Ratnaparkhi",
+            "character": "Brother",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A family drama filled with emotions, humor, and love for family bonds."
+      },
+      {
+        "id": "m20",
+        "name": "Killa",
+        "cover": null,
+        "rating": 4.6,
+        "Director": "Avinash Arun",
+        "yearofrelease": 2014,
+        "Actor": "Archit Deodhar",
+        "cast": [
+          { "name": "Archit Deodhar", "character": "Chinmay", "image": null },
+          { "name": "Amruta Subhash", "character": "Mother", "image": null },
+          { "name": "Parth Bhalerao", "character": "Friend", "image": null },
+          { "name": "Gaurish Gawade", "character": "Villager", "image": null },
+          { "name": "Atharva Upasni", "character": "Friend", "image": null },
+          { "name": "Devendra Gaikwad", "character": "Teacher", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A young boy navigates the challenges of adapting to a new place."
+      },
+      {
+        "id": "m21",
+        "name": "Sairat",
+        "cover": null,
+        "rating": 4.9,
+        "Director": "Nagraj Manjule",
+        "yearofrelease": 2016,
+        "Actor": "Akash Thosar",
+        "cast": [
+          { "name": "Akash Thosar", "character": "Prashant", "image": null },
+          { "name": "Rinku Rajguru", "character": "Archana", "image": null },
+          { "name": "Arbaz Shaikh", "character": "Salya", "image": null },
+          { "name": "Tanishk Bhure", "character": "Langdya", "image": null },
+          {
+            "name": "Chhaya Kadam",
+            "character": "Prashant's Mother",
+            "image": null
+          },
+          { "name": "Suraj Pawar", "character": "Friend", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A tale of forbidden love and societal pressures."
+      },
+      {
+        "id": "m22",
+        "name": "Timepass",
+        "cover": null,
+        "rating": 4.4,
+        "Director": "Ravi Jadhav",
+        "yearofrelease": 2014,
+        "Actor": "Prathamesh Parab",
+        "cast": [
+          { "name": "Prathamesh Parab", "character": "Dagadu", "image": null },
+          {
+            "name": "Ketaki Mategaonkar",
+            "character": "Prajakta",
+            "image": null
+          },
+          { "name": "Vaibhav Mangle", "character": "Father", "image": null },
+          { "name": "Urmila Kanitkar", "character": "Teacher", "image": null },
+          { "name": "Bhalchandra Kadam", "character": "Uncle", "image": null },
+          { "name": "Sandeep Pathak", "character": "Friend", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A teenage love story full of innocence and humor."
+      },
+      {
+        "id": "m23",
+        "name": "Naal",
+        "cover": null,
+        "rating": 4.7,
+        "Director": "Sudhakar Reddy Yakkanti",
+        "yearofrelease": 2018,
+        "Actor": "Shrinivas Pokale",
+        "cast": [
+          {
+            "name": "Shrinivas Pokale",
+            "character": "Chaitanya",
+            "image": null
+          },
+          { "name": "Devika Daftardar", "character": "Mother", "image": null },
+          { "name": "Nagraj Manjule", "character": "Father", "image": null },
+          { "name": "Seva More", "character": "Grandmother", "image": null },
+          { "name": "Chhaya Kadam", "character": "Relative", "image": null },
+          { "name": "Om Bhutkar", "character": "Villager", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "An emotional story of a boy exploring relationships and love."
+      },
+      {
+        "id": "m24",
+        "name": "Jogwa",
+        "cover": null,
+        "rating": 4.8,
+        "Director": "Rajiv Patil",
+        "yearofrelease": 2009,
+        "Actor": "Upendra Limaye",
+        "cast": [
+          { "name": "Upendra Limaye", "character": "Tayappa", "image": null },
+          { "name": "Mukta Barve", "character": "Suli", "image": null },
+          {
+            "name": "Vinay Apte",
+            "character": "Village Priest",
+            "image": null
+          },
+          { "name": "Sharvani Pillai", "character": "Neighbor", "image": null },
+          {
+            "name": "Suhas Palshikar",
+            "character": "Village Head",
+            "image": null
+          },
+          { "name": "Jyoti Subhash", "character": "Mother", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A socially sensitive film focusing on traditions and liberation."
+      },
+      {
+        "id": "m25",
+        "name": "Court",
+        "cover": null,
+        "rating": 4.9,
+        "Director": "Chaitanya Tamhane",
+        "yearofrelease": 2014,
+        "Actor": "Vivek Gomber",
+        "cast": [
+          { "name": "Vivek Gomber", "character": "Lawyer", "image": null },
+          {
+            "name": "Geetanjali Kulkarni",
+            "character": "Social Worker",
+            "image": null
+          },
+          {
+            "name": "Vira Sathidar",
+            "character": "Narayan Kamble",
+            "image": null
+          },
+          { "name": "Pradeep Joshi", "character": "Judge", "image": null },
+          { "name": "Usha Bane", "character": "Wife", "image": null },
+          { "name": "Shirish Pawar", "character": "Villager", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A courtroom drama delving into social injustices."
+      },
+      {
+        "id": "m26",
+        "name": "Elizabeth Ekadashi",
+        "cover": null,
+        "rating": 4.4,
+        "Director": "Paresh Mokashi",
+        "yearofrelease": 2014,
+        "Actor": "Shrihari Sathe",
+        "cast": [
+          { "name": "Shrihari Sathe", "character": "Dnyanesh", "image": null },
+          { "name": "Sayali Jadhav", "character": "Mukta", "image": null },
+          { "name": "Shivendra Dighe", "character": "Friend", "image": null },
+          { "name": "Nandita Dhuri", "character": "Mother", "image": null },
+          {
+            "name": "Omkar Govardhane",
+            "character": "Neighbor",
+            "image": null
+          },
+          {
+            "name": "Pushkar Lonarkar",
+            "character": "Supportive Friend",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A beautiful tale about science and hope in a small town."
+      },
+      {
+        "id": "m27",
+        "name": "Fandry",
+        "cover": null,
+        "rating": 4.7,
+        "Director": "Nagraj Manjule",
+        "yearofrelease": 2013,
+        "Actor": "Somnath Avghade",
+        "cast": [
+          { "name": "Somnath Avghade", "character": "Jabya", "image": null },
+          { "name": "Rajeshwari Kharat", "character": "Shalu", "image": null },
+          { "name": "Kishore Kadam", "character": "Father", "image": null },
+          { "name": "Chhaya Kadam", "character": "Mother", "image": null },
+          { "name": "Nagraj Manjule", "character": "Villager", "image": null },
+          { "name": "Suraj Pawar", "character": "Friend", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A poignant love story intertwined with societal issues."
+      },
+      {
+        "id": "m28",
+        "name": "Shwaas",
+        "cover": null,
+        "rating": 4.8,
+        "Director": "Sandeep Sawant",
+        "yearofrelease": 2004,
+        "Actor": "Arun Nalawade",
+        "cast": [
+          {
+            "name": "Arun Nalawade",
+            "character": "Grandfather",
+            "image": null
+          },
+          {
+            "name": "Ashwin Chitale",
+            "character": "Parashuram",
+            "image": null
+          },
+          { "name": "Amruta Subhash", "character": "Doctor", "image": null },
+          { "name": "Sandeep Kulkarni", "character": "Friend", "image": null },
+          { "name": "Sulabha Deshpande", "character": "Nurse", "image": null },
+          { "name": "Sharad Bhutadia", "character": "Supporter", "image": null }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A heartfelt story about a grandfather and his grandson's journey."
+      },
+      {
+        "id": "m29",
+        "name": "Deool",
+        "cover": null,
+        "rating": 4.6,
+        "Director": "Umesh Kulkarni",
+        "yearofrelease": 2011,
+        "Actor": "Nana Patekar",
+        "cast": [
+          { "name": "Nana Patekar", "character": "Bhaskar", "image": null },
+          {
+            "name": "Dilip Prabhavalkar",
+            "character": "Retired Teacher",
+            "image": null
+          },
+          {
+            "name": "Sonali Kulkarni",
+            "character": "Social Worker",
+            "image": null
+          },
+          { "name": "Girish Kulkarni", "character": "Farmer", "image": null },
+          { "name": "Jyoti Subhash", "character": "Villager", "image": null },
+          {
+            "name": "Kishore Kadam",
+            "character": "Local Leader",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A satirical take on commercialization and faith."
+      },
+      {
+        "id": "m30",
+        "name": "Natsamrat",
+        "cover": null,
+        "rating": 4.9,
+        "Director": "Mahesh Manjrekar",
+        "yearofrelease": 2016,
+        "Actor": "Nana Patekar",
+        "cast": [
+          { "name": "Nana Patekar", "character": "Ganpatrao", "image": null },
+          { "name": "Medha Manjrekar", "character": "Wife", "image": null },
+          { "name": "Vikram Gokhale", "character": "Friend", "image": null },
+          { "name": "Sunil Barve", "character": "Son", "image": null },
+          { "name": "Neha Pendse", "character": "Daughter", "image": null },
+          {
+            "name": "Mrunmayee Deshpande",
+            "character": "Supporter",
+            "image": null
+          }
+        ],
+        "isWishlisted": false,
+        "trailor_link": null,
+        "spotifyLink": null,
+        "watchNow": null,
+        "ott": null,
+        "description": "A retired actor struggles to find relevance in his old age."
       }
     ]
   }
