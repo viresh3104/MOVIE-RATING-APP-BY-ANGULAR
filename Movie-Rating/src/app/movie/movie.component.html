@@ -1,16 +1,119 @@
 <div class="movie-details">
   <app-header></app-header>
-  <p>{{ movieDetails?.Director }}</p>
-  <p>{{ movieDetails?.yearofrelease }}</p>
-  <p>{{ movieDetails.trailor_link }}</p>
-  <iframe
-    width="1120"
-    height="630"
-    [src]="safeTrailerUrl"
-    title="YouTube video player"
-    frameborder="0"
-    allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-  ></iframe>
+  <div class="movieTrailor">
+    <iframe
+      width="1120"
+      height="630"
+      [src]="safeTrailerUrl"
+      title="YouTube video player"
+      frameborder="0"
+      allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+  </div>
+
+  <div class="rating-form">
+    <h3>{{ movieDetails.name }} ({{ movieDetails.yearofrelease }})</h3>
+    <div class="form-group">
+      <label for="Name">Name<span style="color: red">*</span></label>
+      <input
+        type="text"
+        name="name"
+        class="form-control"
+        [(ngModel)]="userName"
+        placeholder="enter Your Name"
+        style="height: 3rem"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="remarks">Remarks</label>
+      <input
+        type="text"
+        name="remarks"
+        class="form-control"
+        [(ngModel)]="userRemark"
+        placeholder="enter note (optional)"
+        style="height: 3rem"
+      />
+    </div>
+
+    <div class="star-rating">
+      <i
+        *ngFor="let star of stars; let i = index"
+        class="star"
+        [class.filled]="i < userRating"
+        (click)="setRating(i + 1)"
+      >
+        ★
+      </i>
+    </div>
+
+    <div class="btn-container">
+      <button class="btn" (click)="submit()"><p>Rate this Movie</p></button>
+    </div>
+
+    <div
+      *ngIf="msg"
+      [ngClass]="{
+        'error-class':
+          msg === '❗ Name is required' || msg === '❗ Rating is required',
+        'success-class': msg === '✔ Movie Rated'
+      }"
+      class="msg"
+    >
+      {{ msg }}
+    </div>
+  </div>
+
+  <div class="movie-stats">
+    <div class="movie-cover"><img [src]="movieDetails?.cover" alt="" /></div>
+    <div class="stats">
+      <h3>Movie Deatils</h3>
+      <div class="movie-name">Movie Name: {{ movieDetails.name }}</div>
+      <div class="yor">Release Date: {{ movieDetails.yearofrelease }}</div>
+      <div class="rating">Rating: {{ movieDetails.rating }}</div>
+      <div class="director">Director: {{ movieDetails.Director }}</div>
+      <div class="actor">Lead Actor: {{ movieDetails.Actor }}</div>
+    </div>
+    <div></div>
+  </div>
+
+  <div class="external-link1">
+    <p>Listen Music on</p>
+    <img src="assets/spotify-1.png" class="logo" (click)="gotospotify()" />
+  </div>
+  <div class="external-link2">
+    Watch Full Movie <br />
+    <img src="{{ movieDetails?.ott }}" class="logo" (click)="watchnow()" />
+  </div>
+
+  <div class="cast">
+    <h3>Movie Cast</h3>
+    <div class="cast-container">
+      <div class="cast-card" *ngFor="let actor of movieDetails?.cast">
+        <img [src]="actor.image" [alt]="actor.name" />
+        <p id="name">{{ actor.name }}</p>
+        <p id="character">As {{ actor.character }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="description">
+    <h3>Movie Description</h3>
+    <p id="description-card">{{ movieDetails?.description }}</p>
+  </div>
 </div>
+
+<!-- for the rating details backend -->
+
+<!-- <div *ngFor="let rating of movieDetails?.ratings">
+      <div>
+        UserName :  {{rating?.userName}}
+      <br>
+        UserRating: {{rating?.UserRating}}
+        <br>
+
+        UserRemark: {{rating?.userRemark}}
+      </div>   
+  </div> -->
