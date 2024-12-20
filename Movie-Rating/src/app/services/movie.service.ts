@@ -7,7 +7,6 @@ import { HttpClient } from '@angular/common/http';
 export class MovieService {
   wishListMovies: any[] = []; // Array to store wishlisted movies
   allMovies: any[] = []; // Array to store all movies fetched from JSON
-  slicedMovies:any[] = []; 
   constructor(private http: HttpClient) {
     // Fetch all movies during service initialization
   }
@@ -52,14 +51,6 @@ export class MovieService {
         }
       }
     });
-
-    this.slicedMovies = this.allMovies.map((movieCategory: any) => {
-      return {
-        ...movieCategory,
-        movieList: movieCategory.movieList.slice(0, 8)
-      };
-    });    
-
   }
 
   removeWishlist(movie: any) {
