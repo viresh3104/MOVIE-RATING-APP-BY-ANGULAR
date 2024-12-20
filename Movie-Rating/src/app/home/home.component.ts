@@ -17,31 +17,28 @@ export class HomeComponent {
   ) {}
 
   ngOnInit(): void {
-    this.movieService.loadAllMovies();
+    if(this.movieService.allMovies && this.movieService.allMovies.length == 0){
+      this.movieService.loadAllMovies();
+    }
     this.getSlicedMovies();
   }
 
   getSlicedMovies() {
-    this.http
-      // .get<any[]>('http://localhost:4200/assets/movies_data/movieCategory.json')
-      // .subscribe((movies) => {
-        // this.movieService.allMovies = movies;
-        this.movieService.slicedMovies = JSON.parse(JSON.stringify(this.movieService.allMovies ));
-
         const wishlistIds = this.movieService.wishListMovies.map((item: any) => item.id); 
 
-        this.movieService.slicedMovies.forEach((movieCategory: any) => {
-          movieCategory.movieList = movieCategory.movieList.slice(0, 8).map((movie: any) => {
+        this.movieService.allMovies.forEach((movieCategory: any) => {
+          movieCategory.movieList = movieCategory.movieList.map((movie: any) => {
             return {
               ...movie,
               isWishlisted: wishlistIds.includes(movie.id) 
             };
           });
         });     
-      //});
   }
 
   gotomoviedetails(movie: any) {
+    console.log("this.allmoview:", this.movieService.allMovies);
+    
     this.router.navigate(['/movie'], {
       queryParams: {
         moviedetails: JSON.stringify(movie),

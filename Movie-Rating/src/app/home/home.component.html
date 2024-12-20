@@ -3,7 +3,7 @@
 
   <app-movie-slider></app-movie-slider>
 
-  <ng-container *ngFor="let movie of movieService.slicedMovies">
+  <ng-container *ngFor="let movie of movieService.allMovies">
     <div class="all-movies">
       <div class="category">
         <div class="top">
@@ -15,7 +15,7 @@
           </div>
         </div>
         <div class="movies-thumbnail">
-          <div class="movie" *ngFor="let movie of movie.movieList">
+          <div class="movie" *ngFor="let movie of movie.movieList | slice:0:8">
             <app-movie-card
               [movieDetails]="movie"
               (goToViewDetails)="gotomoviedetails($event)"
