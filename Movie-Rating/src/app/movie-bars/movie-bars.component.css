@@ -30,10 +30,12 @@
       .movies-thumbnail {
         padding-top: 10px;
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
+        /* align-items: star; */
         flex-wrap: wrap;
         padding: 2rem;
         margin-bottom: 2rem;
+        margin-right: 2rem;
 
         .movie {
           position: relative;
