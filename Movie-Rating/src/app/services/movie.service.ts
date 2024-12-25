@@ -17,7 +17,13 @@ export class MovieService {
       .get<any[]>('http://localhost:4200/assets/movies_data/movieCategory.json')
       .subscribe(
         (movies) => {
-          this.allMovies = movies;
+          this.allMovies = movies.map((movie) => {
+            return {
+              ...movie, 
+              movieList: movie.movieList.sort((a: any, b: any) => b.yearofrelease - a.yearofrelease),
+            };
+          });
+          console.log("allmovies:" , this.allMovies);
         },
         (error) => {
           console.error('Failed to load movies:', error);
