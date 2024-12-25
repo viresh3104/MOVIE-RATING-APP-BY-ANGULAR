@@ -142,9 +142,9 @@
   .external-link1 {
     background-color: black;
     position: absolute;
-    bottom: 4%;
+    bottom: 2%;
     right: 6%;
-    height: 80px;
+    height: 100px;
     width: 240px;
     border-radius: 10px;
     font-size: 1.3rem;
@@ -156,13 +156,10 @@
       z-index: inherit;
     }
     img{
-        width: 120px;
-        height: auto;
-        cursor: pointer;
-        height: auto;
-        margin-top: -28px;
-        position: relative;
-        z-index: 0;
+      width: 140px;
+      height: auto;
+      cursor: pointer;
+      margin-top: -10px;
     }
 
   }
@@ -170,9 +167,9 @@
   .external-link2 {
     background-color: black;
     position: absolute;
-    bottom: 4%;
+    bottom: 2%;
     right: 19%;
-    height: 80px;
+    height: 100px;
     width: 240px;
     border-radius: 10px;
     font-size: 1.3rem;
@@ -180,10 +177,10 @@
     padding-top: 5px;
     overflow: hidden;
     img{
-        width: 120px;
+        width: 140px;
         height: auto;
         cursor: pointer;
-        margin-top: 8px;
+        margin-top: 7px;
 
     }
   }

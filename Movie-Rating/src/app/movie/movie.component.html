@@ -14,7 +14,7 @@
   </div>
 
   <div class="rating-form">
-    <h3>{{ movieDetails.name }} ({{ movieDetails.yearofrelease }})</h3>
+    <h3>{{ movieDetails?.name }} ({{ movieDetails?.yearofrelease }})</h3>
     <div class="form-group">
       <label for="Name">Name<span style="color: red">*</span></label>
       <input
@@ -71,11 +71,11 @@
     <div class="movie-cover"><img [src]="movieDetails?.cover" alt="" /></div>
     <div class="stats">
       <h3>Movie Deatils</h3>
-      <div class="movie-name">Movie Name: {{ movieDetails.name }}</div>
-      <div class="yor">Release Date: {{ movieDetails.yearofrelease }}</div>
-      <div class="rating">Rating: {{ movieDetails.rating }}</div>
-      <div class="director">Director: {{ movieDetails.Director }}</div>
-      <div class="actor">Lead Actor: {{ movieDetails.Actor }}</div>
+      <div class="movie-name">Movie Name: {{ movieDetails?.name }}</div>
+      <div class="yor">Release Date: {{ movieDetails?.yearofrelease }}</div>
+      <div class="rating">Rating: {{ movieDetails?.rating }}</div>
+      <div class="director">Director: {{ movieDetails?.Director }}</div>
+      <div class="actor">Lead Actor: {{ movieDetails?.Actor }}</div>
     </div>
     <div></div>
   </div>
@@ -93,9 +93,9 @@
     <h3>Movie Cast</h3>
     <div class="cast-container">
       <div class="cast-card" *ngFor="let actor of movieDetails?.cast">
-        <img [src]="actor.image" [alt]="actor.name" />
-        <p id="name">{{ actor.name }}</p>
-        <p id="character">As {{ actor.character }}</p>
+        <img [src]="actor?.image" [alt]="actor.name" />
+        <p id="name">{{ actor?.name }}</p>
+        <p id="character">As {{ actor?.character }}</p>
       </div>
     </div>
   </div>
